@@ -1,0 +1,11 @@
+- social networking 
+- web 
+- text messaging 
+- email 
+- multi user network games 
+- streaming stored video 
+- P2P File sharing 
+- voice over IP 
+- real time video conferencing 
+- Internet search 
+- remote login
