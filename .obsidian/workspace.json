@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1b4a7807b79c4f3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "layered internet protocol stack.md",
+                "file": "Book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "layered internet protocol stack.md",
+                "file": "Book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "layered internet protocol stack.md"
+                "file": "Book.md"
               }
             }
           }
@@ -146,13 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d5dad59d04e61ea5",
+  "active": "1b4a7807b79c4f3c",
   "lastOpenFiles": [
+    "layered internet protocol stack.md",
+    "Book.md",
     "network.md",
     "README.md",
     "destination.md",
     "how to slove confice ip.md",
-    "layered internet protocol stack.md",
     "router.md",
     "README 1.md",
     "NOTE DOWN.md",
