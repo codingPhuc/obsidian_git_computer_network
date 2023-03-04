@@ -55,7 +55,7 @@ sw is a router if you want to hack into computer a to d we can overide the route
 
 ```mermaid 
 flowchart TD 
-A["root DNS  servers"]-- > B[".com DNs servers "]
+		A["root DNS  servers"]-- > B[".com DNs servers"]
 	
 ```
  
