@@ -12,10 +12,14 @@
 - simple mail transfer protocol : Smtp 
 	- a protocol between mail server to send mail 
 ## smtp 
-### thre phases of tranfer 
+### three phases of tranfer 
 - SMTP handshaking (greeting)
 - SMTP transfer of messages 
 - SMTP CLOSURE 
+### USES TCP TO RELIABLY TRANSFER EMAIL MESSAGE 
+### command /response interaction (like HTTP)
+- command : ASCII text 
+- response : status code and phrase 
 
 
 Computer 
