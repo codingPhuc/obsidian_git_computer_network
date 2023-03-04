@@ -23,3 +23,5 @@ when we upload a file to a server what do we use ?
 - HTTP 
 - FTP 
 - SMTP 
+THE CORRECT ANSWER IS FTP 
+WE WANT TO RECEVCE MAIL WE US SMTP 
