@@ -12,6 +12,10 @@
 - simple mail transfer protocol : Smtp 
 	- a protocol between mail server to send mail 
 ## smtp 
+### thre phases of tranfer 
+- SMTP handshaking (greeting)
+- SMTP transfer of messages 
+- SMTP CLOSURE 
 
 
 Computer 
