@@ -40,6 +40,13 @@ sw is a router if you want to hack into computer a to d we can overide the route
  - mail server aliasing 
  - load distribution 
 	 - replicated wev servers : many IP addresses correspond to one name 
+ thinking about the dns
+ - humongous distributed datebase : 
+	 - billion records , each simple 
+- handles many trilions of queries /day : 
+	- mnay more reads than writes 
+	- performance matters : almost every 
+	- internet transac
 
 
 Computer 
