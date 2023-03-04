@@ -21,6 +21,17 @@
 - command : ASCII text 
 - response : status code and phrase 
 
+let say we have 4 computer 
+```mermaid 
+flowchart TD
+	s["SW"] -->A
+	s["SW"] -->b
+	s["SW"] -->c
+	s["SW"] -->d
+	
+
+```
+
 
 Computer 
 Storage 
