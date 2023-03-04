@@ -46,7 +46,11 @@ sw is a router if you want to hack into computer a to d we can overide the route
 - handles many trilions of queries /day : 
 	- mnay more reads than writes 
 	- performance matters : almost every 
-	- internet transac
+	- internet transaction interacts with dns - msecs count 
+ organizationall, physically decentralized 
+ - millions of different organization responsible for their records 
+ "bulletproof" : reloability, sercurity 
+ 
 
 
 Computer 
