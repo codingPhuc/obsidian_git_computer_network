@@ -51,6 +51,14 @@ sw is a router if you want to hack into computer a to d we can overide the route
  - millions of different organization responsible for their records 
  "bulletproof" : reloability, sercurity 
  
+### DNs : a distributed , hiearrchical database 
+
+```mermaid 
+flowchart TD 
+A["root DNS  servers"]-- > B[".com DNs servers "]
+	
+```
+ 
 
 
 Computer 
