@@ -9,4 +9,10 @@
 	 flowchart LR 
 	A --middle man-->B
 ```
- to con
+ to connect safly without the rist of the middle man we usa a vpn 
+ ```mermaid 
+	flowchart RL 
+	A --tunner --> B
+	vpn 
+```
+
