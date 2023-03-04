@@ -40,9 +40,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f41540ca5288f767",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "application layer.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "application layer.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "application layer.md"
+                "file": "Untitled 1.md"
               }
             }
           }
@@ -169,8 +181,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8cad0dd712d8cd3",
+  "active": "f41540ca5288f767",
   "lastOpenFiles": [
+    "application layer.md",
+    "Untitled 1.md",
     "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf",
     "pdf/Computer Networks And The Internet A Hands-On Approach by Gerry Howser (z-lib.org).pdf",
     "router.md",
@@ -183,7 +197,6 @@
     "NOTE DOWN.md",
     "pdf/Computer Networks - A Tanenbaum - 5th edition.pdf",
     "Book.md",
-    "application layer.md",
     "~$Chapter_2_Application Layer_v8.1.pptx",
     "~$Chapter_3_Transport Layer_v8.0.pptx",
     "~~$Computer Networks And The Internet A Hands-On Approach by Gerry Howser (z-lib.org).pdf",
