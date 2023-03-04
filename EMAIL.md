@@ -33,6 +33,8 @@ flowchart TD
 ```
 sw is a router if you want to hack into computer a to d we can overide the router  network so that the defalut gate way is our own 
 
+
+
 Computer 
 Storage 
 Networking 
