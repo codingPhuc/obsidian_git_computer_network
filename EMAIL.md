@@ -12,3 +12,6 @@ Computer
 Storage 
 Networking 
 these are the three primary component of data center 
+
+
+capex and opex 
