@@ -31,7 +31,7 @@ flowchart TD
 	
 
 ```
-
+sw is a router if you want to hack into computer a to d we can ove
 
 Computer 
 Storage 
