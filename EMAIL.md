@@ -6,3 +6,9 @@
  - DNS BELONG [[application layer]]
  - IP BELONG [[network]]
  - mail is use on the public cloud 
+
+
+Computer 
+Storage 
+Networking 
+these are the three primary component of data center 
