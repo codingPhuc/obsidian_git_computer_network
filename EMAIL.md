@@ -6,4 +6,3 @@
  - DNS BELONG [[application layer]]
  - IP BELONG [[network]]
  - mail is use on the public cloud 
- - 
