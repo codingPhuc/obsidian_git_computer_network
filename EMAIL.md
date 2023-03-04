@@ -6,6 +6,12 @@
  - DNS BELONG [[application layer]]
  - IP BELONG [[network]]
  - mail is use on the public cloud 
+## three main components 
+- user agents 
+- mail servers 
+- simple mail transfer protocol : Smtp 
+	- a protocol between mail server to send mail 
+## smtp 
 
 
 Computer 
