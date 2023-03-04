@@ -15,4 +15,11 @@
 	A --tunner --> B
 	vpn 
 ```
-
+when we upload a file to a server what do we use ? 
+- SSH 
+- TELNET 
+- VPN 
+- RJ45 
+- HTTP 
+- FTP 
+- SMTP 
