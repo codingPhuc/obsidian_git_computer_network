@@ -16,3 +16,5 @@ these are the three primary component of data center
 
 capex and opex 
 opex is buy how many do how many 
+
+disaster recovery is made to recover data the best  
