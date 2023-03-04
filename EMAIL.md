@@ -34,7 +34,12 @@ flowchart TD
 sw is a router if you want to hack into computer a to d we can overide the router  network so that the defalut gate way is our own 
 
 ### domain name system 
-
+- hostname to IP address translation 
+- host aliasing 
+	- canonical , alias names 
+ - mail server aliasing 
+ - load distribution 
+	 - replicated wev servers : many IP address
 
 
 Computer 
