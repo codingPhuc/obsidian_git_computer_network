@@ -26,3 +26,7 @@ the application in the OSI  model acts as an interace between the user and the s
 ## Mail and Directory services 
 - This application layer funcion is also responsible for handling email forwarding and storgae 
 - this function is also respondible for handling access right for global information on multiple network services 
+
+[[EMAIL]]
+[[SMTP]]
+[[IMAP]]
