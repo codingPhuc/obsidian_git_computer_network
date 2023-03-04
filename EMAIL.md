@@ -39,7 +39,7 @@ sw is a router if you want to hack into computer a to d we can overide the route
 	- canonical , alias names 
  - mail server aliasing 
  - load distribution 
-	 - replicated wev servers : many IP address
+	 - replicated wev servers : many IP addresses correspond to one name 
 
 
 Computer 
