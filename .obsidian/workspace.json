@@ -64,9 +64,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d4541140191b5627",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lab1-Introduction/what the internet nut and bolt view.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "266120c2f21a1d36",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -132,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exam.md",
+                "file": "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exam.md",
+                "file": "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exam.md"
+                "file": "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf"
               }
             }
           }
@@ -193,16 +215,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0b86717d5cd11aa",
+  "active": "266120c2f21a1d36",
   "lastOpenFiles": [
-    "Untitled.md",
+    "pdf/Computer Networks And The Internet A Hands-On Approach by Gerry Howser (z-lib.org).pdf",
+    "pdf/Computer Networks - A Tanenbaum - 5th edition.pdf",
+    "lab1-Introduction/what the internet nut and bolt view.md",
+    "lab1-Introduction/Untitled.md",
     "exam.md",
+    "lab1-Introduction",
+    "~$Chapter_1_Introduction_v8.1.pptx",
+    "Untitled.md",
     "switch.md",
     "Untitled 1.md",
     "source.md",
     "network.md",
-    "pdf/Computer Networks - A Tanenbaum - 5th edition.pdf",
-    "pdf/Computer Networks And The Internet A Hands-On Approach by Gerry Howser (z-lib.org).pdf",
     "Book.md",
     "destination.md",
     "EMAIL.md",
