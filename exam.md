@@ -21,6 +21,10 @@ Layer 3 (Network) : Determines the route for data to travel across the network
 Layer 4 (Transport) : Ensure reliable delivery of data between devices 
 Layer 5 (Session): Establishes and manges communication sessions
 Layer 6 (Presentation) : Formats and presents data for applications 
-Layer 7 (Applicaion) : Provides network serves to applications the Layer responsible for error detection and correction is Layer 2 (Data Link) . The layer responsible or providing services directly to the user is Layer 7 (Applicati)
+Layer 7 (Applicaion) : Provides network serves to applications the Layer responsible for error detection and correction is Layer 2 (Data Link) . The layer responsible or providing services directly to the user is Layer 7 (Application)
+
+7. Commen wireless encryption standard ? 
+Comment wireless encryption standards include WPA2 (WI- FI Protected Access II) , WEP (Wired Equivalent Privacy  )  , and AES ( Advanced )
+
 
 
