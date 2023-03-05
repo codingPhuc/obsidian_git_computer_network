@@ -10,4 +10,7 @@ communication ,
 HTTP is used for wev browsing , SSH is used for remote login , FTP is used for transferring files , SMTP is used for email communication 
 4. Common type of networl media , type if network cable : Coaxial ,cable ,Wireless ,
 Twisted pair , optical fiber , satellite 
-Coaxial cable , twisted pair , and optical fiver 
+Coaxial cable , twisted pair , and optical fiver are common types of network cables . Wireless networks use radio waves for communication , while statellite connections use signals transmitted throught space 
+5. Functions of layers in the OSI MODEL 
+EX : 
+which layer of the of the OSI MODEL IS RESONSIBLE FOR ERROR  detection and correction 
