@@ -24,7 +24,17 @@ Layer 6 (Presentation) : Formats and presents data for applications
 Layer 7 (Applicaion) : Provides network serves to applications the Layer responsible for error detection and correction is Layer 2 (Data Link) . The layer responsible or providing services directly to the user is Layer 7 (Application)
 
 7. Commen wireless encryption standard ? 
-Comment wireless encryption standards include WPA2 (WI- FI Protected Access II) , WEP (Wired Equivalent Privacy  )  , and AES ( Advanced )
+Comment wireless encryption standards include WPA2 (WI- FI Protected Access II) , WEP (Wired Equivalent Privacy  )  , and AES ( Advanced Encryption Standard )
+8. Protocol related to sending and receiving Email 
+Protocols related to dending and receiving email include SMTP (Simple Mail transer Protocol ) , POP3 (Post Office Protocol version 3) ,and IMAP 
+(Internet Message Access Protocol )
+
+
+
+
+
+
+
 
 
 
