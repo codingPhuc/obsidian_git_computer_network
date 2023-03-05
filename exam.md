@@ -7,4 +7,7 @@ Dns :Domain Name System
 the network edge device is typically a router , while end devices can include computers , smartphones m tablets , printers , and other devices 
 3 Which protocol is used for : web browsing ,remote login , transferring files , email 
 communication , 
-HTTP is used for wev browsing , SS
+HTTP is used for wev browsing , SSH is used for remote login , FTP is used for transferring files , SMTP is used for email communication 
+4. Common type of networl media , type if network cable : Coaxial ,cable ,Wireless ,
+Twisted pair , optical fiber , satellite 
+Coaxial cable , twisted pair , and optical fiver 
