@@ -14,3 +14,7 @@ Coaxial cable , twisted pair , and optical fiver are common types of network cab
 5. Functions of layers in the OSI MODEL 
 EX : 
 which layer of the of the OSI MODEL IS RESONSIBLE FOR ERROR  detection and correction 
+the funciont of layers in the OSI model include :
+layer 1 (Physical) : Defines the physical connection between devices 
+Layer 2 (Data Link) : Manages the flow of data across the pysical connection 
+la
