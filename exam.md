@@ -20,6 +20,7 @@ Layer 2 (Data Link) : Manages the flow of data across the pysical connection
 Layer 3 (Network) : Determines the route for data to travel across the network 
 Layer 4 (Transport) : Ensure reliable delivery of data between devices 
 Layer 5 (Session): Establishes and manges communication sessions
-Layer 6 (Presentation) 
+Layer 6 (Presentation) : Formats and presents data for applications 
+Layer 7 (Applicaion) : Provides network serves to applications the Layer responsible for error detection and correction is Layer 2 (Data Link) . The layer responsible or providing services directly to the user is Layer 7 (Applicati)
 
 
