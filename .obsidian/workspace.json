@@ -81,11 +81,9 @@
             "id": "266120c2f21a1d36",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "SELF TESTING.md",
-                "mode": "source",
-                "source": false
+                "file": "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf"
               }
             }
           }
@@ -156,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SELF TESTING.md",
+                "file": "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SELF TESTING.md",
+                "file": "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SELF TESTING.md"
+                "file": "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf"
               }
             }
           }
@@ -219,11 +217,12 @@
   },
   "active": "266120c2f21a1d36",
   "lastOpenFiles": [
+    "SELF TESTING.md",
+    "~$Chapter_1_Introduction_v8.1.pptx",
     "switch.md",
     "sockets.md",
     "some network apps.md",
     "source.md",
-    "SELF TESTING.md",
     "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf",
     "pdf/Computer Networks And The Internet A Hands-On Approach by Gerry Howser (z-lib.org).pdf",
     "pdf/Computer Networks - A Tanenbaum - 5th edition.pdf",
@@ -231,7 +230,6 @@
     "lab1-Introduction/Untitled.md",
     "exam.md",
     "lab1-Introduction",
-    "~$Chapter_1_Introduction_v8.1.pptx",
     "Untitled 1.md",
     "network.md",
     "Book.md",
