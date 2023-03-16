@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "kiểu dữ liệu.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "kiểu dữ liệu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "kiểu dữ liệu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "kiểu dữ liệu.md"
               }
             }
           }
@@ -232,7 +232,7 @@
   "active": "8402d0017d6bada4",
   "lastOpenFiles": [
     "network.md",
-    "Untitled.md",
+    "kiểu dữ liệu.md",
     "organization of air travel.md",
     "README.md",
     "router.md",
