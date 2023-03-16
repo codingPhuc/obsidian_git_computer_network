@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sockets.md",
+                "file": "network.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sockets.md",
+                "file": "network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sockets.md",
+                "file": "network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sockets.md"
+                "file": "network.md"
               }
             }
           }
@@ -217,24 +217,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0822c1b3111e56d",
+  "active": "266120c2f21a1d36",
   "lastOpenFiles": [
     "organization of air travel.md",
+    "README.md",
+    "router.md",
     "SELF TESTING.md",
+    "sockets.md",
+    "some network apps.md",
+    "source.md",
+    "switch.md",
+    "Untitled 1.md",
+    "NOTE DOWN.md",
+    "services laying and encapsulation.md",
     "lab1-Introduction/what the internet nut and bolt view.md",
     "~$Chapter_1_Introduction_v8.1.pptx",
     "~$Chapter_2_Application Layer_v8.1.pptx",
     "Book.md",
     "layered internet protocol stack.md",
     "how to slove confice ip.md",
-    "source.md",
-    "switch.md",
-    "Untitled 1.md",
     "EMAIL.md",
     "how to memory server.md",
     "network.md",
-    "some network apps.md",
-    "sockets.md",
     "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf",
     "pdf/Computer Networks And The Internet A Hands-On Approach by Gerry Howser (z-lib.org).pdf",
     "pdf/Computer Networks - A Tanenbaum - 5th edition.pdf",
@@ -242,12 +246,8 @@
     "exam.md",
     "lab1-Introduction",
     "destination.md",
-    "NOTE DOWN.md",
-    "services laying and encapsulation.md",
-    "router.md",
     "application layer.md",
     "pdf",
-    "README.md",
     "~$Chapter_3_Transport Layer_v8.0.pptx",
     "~~$Computer Networks And The Internet A Hands-On Approach by Gerry Howser (z-lib.org).pdf",
     "~$Chapter_5_Network Control Plane_v8.0.pptx",
