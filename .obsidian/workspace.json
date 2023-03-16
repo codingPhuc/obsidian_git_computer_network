@@ -88,9 +88,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8402d0017d6bada4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -156,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "network.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "network.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "network.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -217,8 +229,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "266120c2f21a1d36",
+  "active": "8402d0017d6bada4",
   "lastOpenFiles": [
+    "network.md",
+    "Untitled.md",
     "organization of air travel.md",
     "README.md",
     "router.md",
@@ -238,7 +252,6 @@
     "how to slove confice ip.md",
     "EMAIL.md",
     "how to memory server.md",
-    "network.md",
     "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf",
     "pdf/Computer Networks And The Internet A Hands-On Approach by Gerry Howser (z-lib.org).pdf",
     "pdf/Computer Networks - A Tanenbaum - 5th edition.pdf",
