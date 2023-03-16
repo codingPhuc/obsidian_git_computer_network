@@ -6,7 +6,9 @@
 subnetting 
 đây là một địa chỉ private của class C  
 
-vd: 192.168 .1.0/24( 192.168 là địa chỉ chung của tất cả ip trong mạng  )
+vd: 192.168 .10.0/24( 192.168.10 là địa chỉ chung của tất cả ip trong mạng  )
+nếu địa chỉ trong máy
+
 
 
 
