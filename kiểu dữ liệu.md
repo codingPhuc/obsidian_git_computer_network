@@ -11,7 +11,8 @@ vd: 192.168 .10.0/24( 192.168.10 là địa chỉ chung của tất cả ip tron
 câu hỏi : để chia thành n subnet thì mình phải mượn ở host bao nhiêu bit sao cho 2^x >= n 
 - vd : 4 subnet -> 2^x >= 4  X >= 2(x(min) =2)
 - 3 subnet -> 2^x >=3 X >= 3 
-- 
+192.168.19.0 /26 (192.168.19 là di) ->block size = 2^6 
+
 - 
 
 
