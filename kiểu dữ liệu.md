@@ -12,6 +12,7 @@ câu hỏi : để chia thành n subnet thì mình phải mượn ở host bao n
 - vd : 4 subnet -> 2^x >= 4  X >= 2(x(min) =2)
 - 3 subnet -> 2^x >=3 X >= 3 
 - 
+- 
 
 
 
