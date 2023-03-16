@@ -18,7 +18,8 @@ câu hỏi : để chia thành n subnet thì mình phải mượn ở host bao n
 			 3: 192.168.10.128/26 (192.168.10.128-> 192.168.10.191)
 			 4: 192.169.010.192/26 (192.168.10.192-> 192.168.10.255) 
 tính nhanh subnet mask : 
-			172.16.0.
+			172.16.0.0/16 -> chia thành 8 subnet 
+			
 			 
 	
 xem lại cách tính nhanh từ nhị phân sang thập phân 
