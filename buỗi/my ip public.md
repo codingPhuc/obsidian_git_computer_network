@@ -17,4 +17,4 @@ lệnh nslookup tdtu.edu.vn
 ![[Capture.PNG]]
 ta thấy được ip look up của trường đại học tdt
 
-this 
+
