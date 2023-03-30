@@ -4,141 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8c8b3b0376855d10",
+        "id": "64958aab23484bfa",
         "type": "tabs",
         "children": [
           {
-            "id": "d5dad59d04e61ea5",
+            "id": "ee4996ccca2c016a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "layered internet protocol stack.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b4a7807b79c4f3c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "pdf/Computer Networks - A Tanenbaum - 5th edition.pdf"
-              }
-            }
-          },
-          {
-            "id": "c8cad0dd712d8cd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "application layer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f41540ca5288f767",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SELF TESTING.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0b86717d5cd11aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "exam.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4541140191b5627",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lab1-Introduction/what the internet nut and bolt view.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "266120c2f21a1d36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "network.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8402d0017d6bada4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "kiểu dữ liệu.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03580db9dccee837",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7c18e5a72e797f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80758dfdba464a1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "buỗi/my ip public.md",
+                "file": "thực hành/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "buỗi/my ip public.md",
+                "file": "thực hành/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "buỗi/my ip public.md",
+                "file": "thực hành/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "buỗi/my ip public.md"
+                "file": "thực hành/Untitled.md"
               }
             }
           }
@@ -265,21 +146,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "80758dfdba464a1c",
+  "active": "ee4996ccca2c016a",
   "lastOpenFiles": [
+    "layered internet protocol stack.md",
+    "pdf/Computer Networks - A Tanenbaum - 5th edition.pdf",
+    "application layer.md",
+    "SELF TESTING.md",
+    "exam.md",
+    "lab1-Introduction/what the internet nut and bolt view.md",
+    "network.md",
+    "kiểu dữ liệu.md",
+    "Untitled.md",
+    "Untitled 2.md",
+    "buỗi/my ip public.md",
+    "Untitled 3.md",
+    "thực hành/Untitled.md",
+    "thực hành",
     "picture/Capture.PNG",
     "picture",
     "New folder",
-    "Untitled 2.md",
-    "buỗi/my ip public.md",
-    "Untitled.md",
-    "kiểu dữ liệu.md",
     "buỗi",
-    "network.md",
     "organization of air travel.md",
     "README.md",
     "router.md",
-    "SELF TESTING.md",
     "sockets.md",
     "some network apps.md",
     "source.md",
@@ -287,21 +176,13 @@
     "Untitled 1.md",
     "NOTE DOWN.md",
     "services laying and encapsulation.md",
-    "lab1-Introduction/what the internet nut and bolt view.md",
     "~$Chapter_1_Introduction_v8.1.pptx",
     "~$Chapter_2_Application Layer_v8.1.pptx",
     "Book.md",
-    "layered internet protocol stack.md",
     "how to slove confice ip.md",
     "EMAIL.md",
-    "how to memory server.md",
     "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf",
     "pdf/Computer Networks And The Internet A Hands-On Approach by Gerry Howser (z-lib.org).pdf",
-    "pdf/Computer Networks - A Tanenbaum - 5th edition.pdf",
-    "lab1-Introduction/Untitled.md",
-    "exam.md",
-    "lab1-Introduction",
-    "destination.md",
-    "pdf"
+    "lab1-Introduction"
   ]
 }
