@@ -32,4 +32,14 @@ S1(config)# banner motd "Authoried acces only , violators will be prosecuted to 
 ```
 S1# copy running-config startup-config 
 ```
+# how to config the switch interface 
+### config the switch ip address 
+```
+S1# config terminal 
+S1(config)# interface vlan 1 
+S1(config-if)# ip address 192.168.1.253 255.255.255.0
+S1(config-if)# no shutdown
+S1(config-if)# ex
+
+```
 
