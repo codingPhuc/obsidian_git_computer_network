@@ -24,3 +24,4 @@ you can encrypted the privileged Exec mode password like this
 ```
 S1(config)#enable secret "the password" 
 ```
+
