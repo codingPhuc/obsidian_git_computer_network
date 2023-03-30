@@ -24,4 +24,8 @@ you can encrypted the privileged Exec mode password like this
 ```
 S1(config)#enable secret "the password" 
 ```
-
+## config the message of the day (MOTD)
+```
+S1(config)# banner motd "Authoried acces only , violators will be prosecuted to the full extend ot the law"
+```
+## s
