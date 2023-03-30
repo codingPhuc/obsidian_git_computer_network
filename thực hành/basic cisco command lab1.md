@@ -42,4 +42,4 @@ S1(config-if)# no shutdown
 S1(config-if)# exit 
 ```
 What does the no shutdown command? 
-
+in the simples sense shutdown turn the interface off , no shutdown turn the interface on 
