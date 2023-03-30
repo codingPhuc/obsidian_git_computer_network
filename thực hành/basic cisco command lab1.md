@@ -39,7 +39,7 @@ S1# config terminal
 S1(config)# interface vlan 1 
 S1(config-if)# ip address 192.168.1.253 255.255.255.0
 S1(config-if)# no shutdown
-S1(config-if)# ex
-
+S1(config-if)# exit 
 ```
+What does the no shutdown command? 
 
