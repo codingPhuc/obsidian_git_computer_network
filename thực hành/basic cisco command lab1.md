@@ -20,3 +20,7 @@ S1(config-line)# password cisco
 S1(config-line)# login 
 S1(config_line)#exit 
 ```
+you can encrypted the privileged Exec mode password like this 
+```
+S1(config)#enable secret "the password" 
+```
