@@ -5,5 +5,12 @@ there are two mode for exec the user exec model and the private exec model :
 this is how to enable the privileged exec model 
 ```
 switch> enable 
-switch3 config t
+switch# config t
 ```
+how to  config the host name 
+let say we want to config the switch host name as S1 we do this 
+```
+switch(config)# hostname S1 
+S1(config)# 
+```
+let say we want to config the console and 
