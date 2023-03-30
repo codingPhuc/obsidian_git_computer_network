@@ -13,4 +13,10 @@ let say we want to config the switch host name as S1 we do this
 switch(config)# hostname S1 
 S1(config)# 
 ```
-let say we want to config the console and 
+let say we want to config the console and privileged EXEC mode we do it like this 
+```
+S1 (config)# line console 0 
+S1(config-line)# password cisco 
+S1(config-line)# login 
+S1(config_line)#exit 
+```
