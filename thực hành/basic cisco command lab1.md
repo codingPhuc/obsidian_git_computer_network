@@ -28,4 +28,8 @@ S1(config)#enable secret "the password"
 ```
 S1(config)# banner motd "Authoried acces only , violators will be prosecuted to the full extend ot the law"
 ```
-## s
+## save the configuration file to NVRAM 
+```
+S1# copy running-config startup-config 
+```
+
