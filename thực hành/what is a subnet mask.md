@@ -6,4 +6,4 @@ usally meaning ipv4
 ip address consist of 2 part netword address 
 second part is host address is the for each device in host 
 # computer subnet mask 
-t
+the subnet mask is use for identifiying the network the host is in , the ip address for the network host is usally 
