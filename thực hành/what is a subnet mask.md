@@ -19,4 +19,7 @@ let us see 255.255.255.0
 this will give the sum of bit being 255 
 
 example 
-let say 
+let say that we have an ip address of 192.168.1.0 and subnet mask of 255.255.255.0 
+
+![[subnet mask.PNG]]
+we can see that by using the and operation on each bit in the of the ip add
