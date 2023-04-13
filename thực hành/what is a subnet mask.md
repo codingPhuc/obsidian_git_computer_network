@@ -26,4 +26,7 @@ we can see that by using the and operation on each bit in the of the ip address 
 example 
 an subnet mask of 255.255.224.0 
 ip address of 172.16.1.0 
-t
+![[subnet.PNG]]
+we will see that the first two octec and the first three bit in the third octec being the network ip address and the last bieng the host ip address 
+## why does the network need subnet mask 
+let say that we have a large ori
