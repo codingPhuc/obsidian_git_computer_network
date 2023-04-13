@@ -11,4 +11,12 @@ the subnet mask is use for identifiying the network the host is in , the ip addr
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
 this wil mean that the ip address in an octec is 0 
+sub net map binary concersion 
+let us see 255.255.255.0 
+| 128 | 64  | 32  | 16  | 8   | 4   | 2   | 1   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   |
+this will give the sum of bit being 255 
 
+example 
+let say 
