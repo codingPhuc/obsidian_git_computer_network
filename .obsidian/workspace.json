@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thực hành/what is a subnet mask.md",
+                "file": "thực hành/basic cisco command lab1.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thực hành/what is a subnet mask.md",
+                "file": "thực hành/basic cisco command lab1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thực hành/what is a subnet mask.md",
+                "file": "thực hành/basic cisco command lab1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thực hành/what is a subnet mask.md"
+                "file": "thực hành/basic cisco command lab1.md"
               }
             }
           }
@@ -198,11 +198,11 @@
   },
   "active": "8201041e9ea9a2a1",
   "lastOpenFiles": [
+    "thực hành/what is a subnet mask.md",
     "picture/what is subneting.PNG",
     "picture/subnet.PNG",
     "picture/subnet mask.PNG",
     "thực hành/basic cisco command lab1.md",
-    "thực hành/what is a subnet mask.md",
     "lab1-Introduction/what the internet nut and bolt view.md",
     "buỗi/my ip public.md",
     "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf",
