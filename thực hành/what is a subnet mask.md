@@ -37,4 +37,5 @@ the computer will send out a board cast that only the computer on the subnet wor
 ### the way too break down subnet 
 ![[what is subneting.PNG]]
 
-let borow one bit from the subnet protion you will have 1111111.1111111.1111111.1000000
+let borow one bit from the subnet protion you will have 11111111.1111111.1111111.1000000
+this will give us two subnet with 126 host each 
