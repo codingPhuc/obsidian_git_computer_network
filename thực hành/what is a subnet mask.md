@@ -29,4 +29,7 @@ ip address of 172.16.1.0
 ![[subnet.PNG]]
 we will see that the first two octec and the first three bit in the third octec being the network ip address and the last bieng the host ip address 
 ## why does the network need subnet mask 
-let say that we have a large ori
+let say that we have a large organization 
+the problem if we dont use subnet is that it will create a slower network sometime this can cause the network to slow down 
+so to subnet the network we will use router 
+the computer will send out a board cast that only the computer on the subnet work ac
