@@ -10,5 +10,9 @@ ip address "the first ip" the subnetmask
 ```
 this is how to config a switch 
 ```
-
+enable 
+config t
+interface Vlan 1
+ip address "the second ip address" "the subnet mask"
+no shutdown 
 ```
