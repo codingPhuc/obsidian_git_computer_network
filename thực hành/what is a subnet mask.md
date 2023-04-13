@@ -32,4 +32,9 @@ we will see that the first two octec and the first three bit in the third octec 
 let say that we have a large organization 
 the problem if we dont use subnet is that it will create a slower network sometime this can cause the network to slow down 
 so to subnet the network we will use router 
-the computer will send out a board cast that only the computer on the subnet work ac
+the computer will send out a board cast that only the computer on the subnet work can see 
+
+### the way too break down subnet 
+![[what is subneting.PNG]]
+
+let borow one bit from the subnet protion you will have 1111111.1111111.1111111.1000000
