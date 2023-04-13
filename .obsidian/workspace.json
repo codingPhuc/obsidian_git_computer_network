@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thực hành/what is a subnet mask.md",
+                "file": "application layer.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thực hành/what is a subnet mask.md",
+                "file": "application layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thực hành/what is a subnet mask.md",
+                "file": "application layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thực hành/what is a subnet mask.md"
+                "file": "application layer.md"
               }
             }
           }
@@ -197,9 +197,10 @@
   },
   "active": "d0822c1b3111e56d",
   "lastOpenFiles": [
-    "Untitled",
-    "Untitled 6.md",
+    "EMAIL.md",
     "thực hành/what is a subnet mask.md",
+    "rename",
+    "Untitled 6.md",
     "thực hành/basic cisco command lab1.md",
     "Untitled 5.md",
     "Untitled 4.md",
@@ -232,7 +233,6 @@
     "~$Chapter_1_Introduction_v8.1.pptx",
     "~$Chapter_2_Application Layer_v8.1.pptx",
     "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf",
-    "pdf/Computer Networks And The Internet A Hands-On Approach by Gerry Howser (z-lib.org).pdf",
-    "lab1-Introduction"
+    "pdf/Computer Networks And The Internet A Hands-On Approach by Gerry Howser (z-lib.org).pdf"
   ]
 }
