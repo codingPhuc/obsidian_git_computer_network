@@ -22,4 +22,8 @@ example
 let say that we have an ip address of 192.168.1.0 and subnet mask of 255.255.255.0 
 
 ![[subnet mask.PNG]]
-we can see that by using the and operation on each bit in the of the ip add
+we can see that by using the and operation on each bit in the of the ip address and the sub netmask we will get the true ip address with the three of the first octer being network address and the last being the host address
+example 
+an subnet mask of 255.255.224.0 
+ip address of 172.16.1.0 
+t
