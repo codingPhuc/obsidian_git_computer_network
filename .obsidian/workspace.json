@@ -18,8 +18,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "71ccab9106955a58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0173236aa486f80c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thực hành/basic cisco command lab1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "539ada75fa6fed2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8201041e9ea9a2a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thực hành/what is a subnet mask.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thực hành/basic cisco command lab1.md",
+                "file": "thực hành/what is a subnet mask.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thực hành/basic cisco command lab1.md",
+                "file": "thực hành/what is a subnet mask.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thực hành/basic cisco command lab1.md"
+                "file": "thực hành/what is a subnet mask.md"
               }
             }
           }
@@ -146,8 +195,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee4996ccca2c016a",
+  "active": "8201041e9ea9a2a1",
   "lastOpenFiles": [
+    "Untitled 6.md",
+    "thực hành/what is a subnet mask.md",
+    "thực hành/basic cisco command lab1.md",
+    "Untitled 5.md",
+    "Untitled 4.md",
     "layered internet protocol stack.md",
     "pdf/Computer Networks - A Tanenbaum - 5th edition.pdf",
     "application layer.md",
@@ -160,7 +214,6 @@
     "Untitled 2.md",
     "buỗi/my ip public.md",
     "Untitled 3.md",
-    "thực hành/basic cisco command lab1.md",
     "thực hành",
     "picture/Capture.PNG",
     "picture",
@@ -178,9 +231,6 @@
     "services laying and encapsulation.md",
     "~$Chapter_1_Introduction_v8.1.pptx",
     "~$Chapter_2_Application Layer_v8.1.pptx",
-    "Book.md",
-    "how to slove confice ip.md",
-    "EMAIL.md",
     "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf",
     "pdf/Computer Networks And The Internet A Hands-On Approach by Gerry Howser (z-lib.org).pdf",
     "lab1-Introduction"
