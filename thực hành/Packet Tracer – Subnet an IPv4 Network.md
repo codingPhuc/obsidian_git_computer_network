@@ -39,6 +39,6 @@ Number of subnets? Number of hosts?
 | subnet address | prefix | subnet mask |
 | -------------- | ------ | ----------- |
 | 192.168.0.0    |        |             |
-|                |        |             |
+| 192.               |        |             |
 
 
