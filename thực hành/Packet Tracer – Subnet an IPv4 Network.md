@@ -25,8 +25,15 @@ Dotted decimal subnet mask equivalent:
 Number of subnets? Number of hosts?
 14 
  (/29) 11111111.11111111.11111111.11111000
+255.255.255.248
+Dotted decimal subnet mask equivalent:
+6 
+Number of subnets? Number of hosts?
+ (/30) 11111111.11111111.11111111.11111100
 
 Dotted decimal subnet mask equivalent:
-
+255.255.255.252
 Number of subnets? Number of hosts?
+2
+
 
