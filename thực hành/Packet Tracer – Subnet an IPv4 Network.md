@@ -36,12 +36,7 @@ Dotted decimal subnet mask equivalent:
 Number of subnets? Number of hosts?
 2
 
-| subnet address | prefix | subnet mask |
-| -------------- | ------ | ----------- |
-| 192.168.0.0    | /26    | 255.255.255.            |
-| 192.168.0.64   | /26    |             |
-| 192.168.0.128  | /26    |             |
-| 192.168.0.192  | /26    |             |
+
 
 
 
