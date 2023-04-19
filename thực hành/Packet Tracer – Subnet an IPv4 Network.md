@@ -36,4 +36,9 @@ Dotted decimal subnet mask equivalent:
 Number of subnets? Number of hosts?
 2
 
+| subnet address | prefix | subnet mask |
+| -------------- | ------ | ----------- |
+| 192.168.0.0    |        |             |
+|                |        |             |
+
 
