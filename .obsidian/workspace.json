@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thực hành/ip address config.md",
+                "file": "thực hành/what is a subnet mask.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thực hành/ip address config.md",
+                "file": "thực hành/what is a subnet mask.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thực hành/ip address config.md",
+                "file": "thực hành/what is a subnet mask.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thực hành/ip address config.md"
+                "file": "thực hành/what is a subnet mask.md"
               }
             }
           }
@@ -210,9 +210,9 @@
   },
   "active": "3cd4ccb25e4defc7",
   "lastOpenFiles": [
+    "thực hành/ip address config.md",
     "picture/image.PNG",
     "thực hành/what is a subnet mask.md",
-    "thực hành/ip address config.md",
     "thực hành/basic cisco command lab1.md",
     "picture/what is subneting.PNG",
     "picture/subnet.PNG",
