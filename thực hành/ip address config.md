@@ -16,4 +16,11 @@ config t
 interface Vlan 1
 ip address "the second ip address" "the subnet mask"
 no shutdown 
+ip default-gateway 192.168.0.65  
+end
+```
+how to config defalut gate way for config 
+```
+**_ip default-gateway 192.168.0.65  
+end_**
 ```
