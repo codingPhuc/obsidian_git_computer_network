@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thực hành/ip address config.md",
+                "file": "lab1-Introduction/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thực hành/ip address config.md",
+                "file": "lab1-Introduction/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thực hành/ip address config.md",
+                "file": "lab1-Introduction/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thực hành/ip address config.md"
+                "file": "lab1-Introduction/Untitled.md"
               }
             }
           }
@@ -222,9 +222,9 @@
   },
   "active": "f8e135d9996e473f",
   "lastOpenFiles": [
+    "thực hành/ip address config.md",
     "thực hành/Packet Tracer – Subnet an IPv4 Network.md",
     "thực hành/what is a subnet mask.md",
-    "thực hành/ip address config.md",
     "picture/image.PNG",
     "thực hành/basic cisco command lab1.md",
     "picture/what is subneting.PNG",
