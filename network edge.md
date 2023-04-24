@@ -11,7 +11,11 @@ servers often in data centers
  Hfc : hybird fiber coax : 
  - asymmetric : up to 40 Mbps - 1.2Gbs down stream transmission rate , 30-100Mps
     ![[caper.PNG]]
-digital s subscriber line (DSL)
+digital  subscriber line (DSL)
+	like cable network DSL line is  asymetric with 24 -25 Mbps dedicated downstream tranmission rate 
+	and 3.5 -16 Mbps up stream 
+	
+
 
     
  
