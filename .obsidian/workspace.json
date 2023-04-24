@@ -121,6 +121,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2031a38bef28ca1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "importance for final exam/Untitled.md",
                 "mode": "source",
                 "source": false
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -256,10 +268,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d0822c1b3111e56d",
+  "active": "f2031a38bef28ca1",
   "lastOpenFiles": [
-    "Untitled 8.md",
+    "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
     "importance for final exam/Untitled.md",
+    "Untitled 8.md",
     "Untitled 7.md",
     "lab1-Introduction/Untitled.md",
     "thực hành/ip address config.md",
@@ -296,7 +309,6 @@
     "New folder",
     "importance for final exam",
     "organization of air travel.md",
-    "README.md",
     "~$Chapter_1_Introduction_v8.1.pptx",
     "~$Chapter_2_Application Layer_v8.1.pptx"
   ]
