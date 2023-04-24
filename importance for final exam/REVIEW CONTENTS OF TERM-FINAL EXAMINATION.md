@@ -1,5 +1,5 @@
 Chapter: Computer Networks and the Internet
-- Network protocols: DHCP, FTP, IP, DNS, .... and it’s working principles.
+- [[Network protocols]]: DHCP, FTP, IP, DNS, .... and it’s working principles.
 - Concepts of end systems, end devices, hosts, network edge, network core, ....
 - Operation functions and principles of the layers in the network model OSI, TCP/IP, IP
 Stack;
