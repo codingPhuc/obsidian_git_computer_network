@@ -18,6 +18,13 @@ glass fiber carrying light pulses each pulse a bit
 - but much more expensive on the deliver and receiver end 
 ### wireless radio 
 - signal carried in variois ''band" in electromagnetic 
-- broad cast : mean that anyone can ear dorp 
+- broad cast : mean that anyone can ear drop the message 
+### radio link types : 
+Wireless Lan (Wifi)
+- 10-100 Mbps : 10 of meter 
+wide area : have a hige tranmission range 
+blue tooth : cable replaceemt 
+satelite 
+
 
 
