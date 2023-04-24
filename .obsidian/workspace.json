@@ -138,9 +138,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "67f90a82d8ffe24f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "importance for final exam/link physical media.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -206,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "network edge.md",
+                "file": "importance for final exam/link physical media.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "network edge.md",
+                "file": "importance for final exam/link physical media.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "network edge.md"
+                "file": "importance for final exam/link physical media.md"
               }
             }
           }
@@ -268,15 +280,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f2031a38bef28ca1",
+  "active": "67f90a82d8ffe24f",
   "lastOpenFiles": [
+    "importance for final exam/Untitled 1.md",
+    "importance for final exam/link physical media.md",
+    "network edge.md",
     "picture/network layout.PNG",
     "picture/caper.PNG",
     "importance for final exam/Computer Networks and the Internet.md",
-    "network edge.md",
     "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
     "protocol.md",
-    "importance for final exam/Untitled.md",
     "Untitled 8.md",
     "Untitled 7.md",
     "lab1-Introduction/Untitled.md",
