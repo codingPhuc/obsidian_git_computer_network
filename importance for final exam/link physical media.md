@@ -5,4 +5,5 @@ physical link : what lies between transmitter and receiver
 guided media : 
 - signal : propagate in soil 
 ### coaxial cable 
-- t
+- two cocentric copper conductore 
+- bid
