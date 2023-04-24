@@ -14,6 +14,10 @@ glass fiber carrying light pulses each pulse a bit
 	- hige-speed point to point tranmission 
 - low error rate : 
 	- repeater spaced far apart 
-	- immine to electromag
+	- immine to electromagnetic noise 
+- but much more expensive on the deliver and receiver end 
+### wireless radio 
+- signal carried in variois ''band" in electromagnetic 
+- broad cast : mean that anyone can ear dorp 
 
 
