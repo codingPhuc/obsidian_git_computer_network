@@ -19,7 +19,15 @@ digital  subscriber line (DSL)
 - withen 100ft  or around 
 - mbPS transmission rate 
 ### wide area cllulare access nework 
-provide by  mo
+- provide by  mobile ,cellulare network operator  (10s km)
+- 10 Mnps 
+- 4G cellular networks 
+### enterprise network 
+- is the uprade of home network 
+- have multiple switch and router 
+#### data center network 
+- huge bandwitch 
+
 
 
     
