@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "protocol.md",
+                "file": "network edge.md",
                 "mode": "source",
                 "source": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "protocol.md",
+                "file": "network edge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "protocol.md",
+                "file": "network edge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "protocol.md"
+                "file": "network edge.md"
               }
             }
           }
@@ -271,8 +271,9 @@
   "active": "f2031a38bef28ca1",
   "lastOpenFiles": [
     "importance for final exam/Computer Networks and the Internet.md",
-    "protocol.md",
+    "network edge.md",
     "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+    "protocol.md",
     "importance for final exam/Untitled.md",
     "Untitled 8.md",
     "Untitled 7.md",
@@ -303,7 +304,6 @@
     "network.md",
     "kiểu dữ liệu.md",
     "Untitled.md",
-    "Untitled 2.md",
     "thực hành",
     "picture/Capture.PNG",
     "picture",
