@@ -1,5 +1,6 @@
 #sumarization 
-the delivary of the inf
+the delivary of the information from one point to another 
+
 ### host is billiant of connect computing device 
 host = end sustems 
 
@@ -10,5 +11,10 @@ fiver , copper , readio stateline
 ### network 
 collection of devices , router , link by organization 
 ### protocol are every where 
-internet standard 
+an internet protocol is like human protocol 
+ex what time is it protocol ? 
+- the first person will ask for the time 
+- the second person will then answeer the question 
+
+
 
