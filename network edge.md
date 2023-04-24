@@ -33,7 +33,8 @@ host sending function :
 - take application message 
 - breaks into smaller chunks ,known as packets , of lenght L bits 
 - transmits packet into access network at transmission rate R 
-	- link transmission rate , aka link cap
+	- link transmission rate , aka link capacity , aka link bandwidth 
+	- packet transmission delay = time needed to transmit L-bit packet into link = L/R
 
 
     
