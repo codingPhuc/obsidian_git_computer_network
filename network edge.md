@@ -5,9 +5,11 @@ servers often in data centers
 
 ## access networks  physical media  
 ### how to conect end system to edge router ? 
-- residential access net 
-- institutional access networks
-- mobile access networks 
+
+#### residential access net 
+ frequency division 
+ institutional access n multiplexing 
+ 
 #### what you will look fro
 
 
