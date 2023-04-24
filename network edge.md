@@ -7,8 +7,9 @@ servers often in data centers
 ### how to conect end system to edge router ? 
 
 #### residential access net 
- frequency division 
- institutional access n multiplexing 
+ frequency division multiplexing (FDM): different channels transmitted in different frequency hands 
+ Hfc : hybird fiber coax : 
+ - asymmetric : up to 40 Mbps - 1.2Gbs down stream transmission rate , 30-100Mps
  
 #### what you will look fro
 
