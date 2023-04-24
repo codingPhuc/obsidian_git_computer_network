@@ -27,8 +27,13 @@ digital  subscriber line (DSL)
 - have multiple switch and router 
 #### data center network 
 - huge bandwitch that connect a lot of deviced 
-- 
 
+### host send packets of data 
+host sending function : 
+- take application message 
+- breaks into smaller chunks ,known as packets , of lenght L bits 
+- transmits packet into access network at transmission rate R 
+	- link transmission rate , aka link cap
 
 
     
