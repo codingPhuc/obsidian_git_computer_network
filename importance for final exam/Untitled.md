@@ -1,1 +1,1 @@
-[[Chapter: Computer Networks and the Internet ]]
+Chapter: [[Computer Networks and the Internet ]]
