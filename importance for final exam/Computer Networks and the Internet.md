@@ -15,6 +15,7 @@ an internet protocol is like human protocol
 ex what time is it protocol ? 
 - the first person will ask for the time 
 - the second person will then answeer the question 
+[[protocol]]
 
 
 
