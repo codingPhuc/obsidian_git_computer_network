@@ -10,6 +10,10 @@ servers often in data centers
  frequency division multiplexing (FDM): different channels transmitted in different frequency hands 
  Hfc : hybird fiber coax : 
  - asymmetric : up to 40 Mbps - 1.2Gbs down stream transmission rate , 30-100Mps
+    ![[caper.PNG]]
+digital s subscriber line (DSL)
+
+    
  
 #### what you will look fro
 
