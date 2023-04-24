@@ -90,9 +90,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bc7432ba4304e1a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e1db015f0d91ea1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05b37a5e1d0cc0d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "importance for final exam/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -158,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lab1-Introduction/Untitled.md",
+                "file": "importance for final exam/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lab1-Introduction/Untitled.md",
+                "file": "importance for final exam/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lab1-Introduction/Untitled.md"
+                "file": "importance for final exam/Untitled.md"
               }
             }
           }
@@ -220,8 +256,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f8e135d9996e473f",
+  "active": "d0822c1b3111e56d",
   "lastOpenFiles": [
+    "Untitled 8.md",
+    "importance for final exam/Untitled.md",
+    "Untitled 7.md",
+    "lab1-Introduction/Untitled.md",
     "thực hành/ip address config.md",
     "thực hành/Packet Tracer – Subnet an IPv4 Network.md",
     "thực hành/what is a subnet mask.md",
@@ -231,7 +271,7 @@
     "picture/subnet.PNG",
     "picture/subnet mask.PNG",
     "lab1-Introduction/what the internet nut and bolt view.md",
-    "buỗi/my ip public.md",
+    "importance for final exam/my ip public.md",
     "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf",
     "pdf/Computer Networks And The Internet A Hands-On Approach by Gerry Howser (z-lib.org).pdf",
     "pdf/Computer Networks - A Tanenbaum - 5th edition.pdf",
@@ -254,13 +294,9 @@
     "picture/Capture.PNG",
     "picture",
     "New folder",
-    "buỗi",
+    "importance for final exam",
     "organization of air travel.md",
     "README.md",
-    "router.md",
-    "sockets.md",
-    "some network apps.md",
-    "source.md",
     "~$Chapter_1_Introduction_v8.1.pptx",
     "~$Chapter_2_Application Layer_v8.1.pptx"
   ]
