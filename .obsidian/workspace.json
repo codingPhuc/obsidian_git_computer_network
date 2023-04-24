@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "network edge.md",
+                "file": "importance for final exam/network edge.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,14 +145,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "importance for final exam/link physical media.md",
+                "file": "importance for final exam/network edge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2536a612aa25638",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "importance for final exam/the network core.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -218,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "importance for final exam/link physical media.md",
+                "file": "importance for final exam/the network core.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "importance for final exam/link physical media.md",
+                "file": "importance for final exam/the network core.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "importance for final exam/link physical media.md"
+                "file": "importance for final exam/the network core.md"
               }
             }
           }
@@ -280,15 +292,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "67f90a82d8ffe24f",
+  "active": "d2536a612aa25638",
   "lastOpenFiles": [
-    "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+    "importance for final exam/network edge.md",
+    "importance for final exam/the network core.md",
     "importance for final exam/link physical media.md",
+    "importance for final exam/Computer Networks and the Internet.md",
+    "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
     "importance for final exam/Untitled 1.md",
-    "network edge.md",
     "picture/network layout.PNG",
     "picture/caper.PNG",
-    "importance for final exam/Computer Networks and the Internet.md",
     "protocol.md",
     "Untitled 8.md",
     "Untitled 7.md",
@@ -317,7 +330,6 @@
     "SELF TESTING.md",
     "exam.md",
     "network.md",
-    "kiểu dữ liệu.md",
     "thực hành",
     "picture/Capture.PNG",
     "picture",
