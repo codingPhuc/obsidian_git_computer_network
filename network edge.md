@@ -26,7 +26,8 @@ digital  subscriber line (DSL)
 - is the uprade of home network 
 - have multiple switch and router 
 #### data center network 
-- huge bandwitch 
+- huge bandwitch that connect a lot of deviced 
+- 
 
 
 
