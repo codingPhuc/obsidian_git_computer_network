@@ -29,4 +29,8 @@ you can also used your computer as a server
 somethime ftp can be anonymous or they need you to have acount 
 give the ability of website designner to upload to the server 
 data is send in clear text so it is not very secure 
-secure ftp is
+tftp : 
+very simple transfer protocol 
+not used to transfer files over the internet 
+mainly used for network protocol is a connecttionless protocol 
+does not provide any security over tranfer 
