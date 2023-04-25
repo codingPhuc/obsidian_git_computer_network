@@ -34,3 +34,5 @@ very simple transfer protocol
 not used to transfer files over the internet 
 mainly used for network protocol is a connecttionless protocol 
 does not provide any security over tranfer 
+# Tcp (tranmission control protocol)
+connection oriented protocol mean that the two computer vertify connection before 
