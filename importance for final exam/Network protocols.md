@@ -3,4 +3,11 @@
 
  DHCP, FTP, IP, DNS 
 ## DHCP 
-a dhcp server automatically assigns a compt
+a dhcp server automatically assigns a computer an : 
+- ip address 
+- subnet mask 
+- default gateway 
+- Dns server 
+when you seleact a atomatic ip address in the  window 
+![[atomic.PNG]]
+you will be giv
