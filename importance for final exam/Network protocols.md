@@ -21,4 +21,4 @@ when an ip address is created using dhcp method the computer will not own the ip
 ![[reservation.PNG]]
 the ip address on the reservation mean that the devices in the resivation will aways receive the same ip address this is usally used by router and switches as appose to host end devices 
 
-## FTp
+## FTP (file transfer Protocol )
