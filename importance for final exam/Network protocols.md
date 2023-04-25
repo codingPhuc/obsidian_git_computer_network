@@ -17,4 +17,5 @@ scope of the ip address is the number of unique ip address that the DHCP server 
 when an ip address is created using dhcp method the computer will not own the ip address but it is a least that the dhcp will give 
  
 ![[reservation.PNG]]
-the i
+the ip address on the reservation mean that the devices in the resivation will aways receive the same ip address 
+
