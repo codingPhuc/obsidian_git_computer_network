@@ -3,3 +3,5 @@
 
  DHCP, FTP, IP, DNS 
 ## DHCP 
+Dynamic host configuration Protocol 
+is a network management protocol used to automate the process of configuring devices on ip 
