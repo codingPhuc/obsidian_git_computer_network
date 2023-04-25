@@ -24,3 +24,6 @@ the ip address on the reservation mean that the devices in the resivation will a
 ## FTP (file transfer Protocol )
 standard protocol that is used to transfer file 
 between computer and servers over a network 
+you can also used your computer as a server 
+
+somethime ftp can be anonymous or 
