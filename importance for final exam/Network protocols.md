@@ -3,6 +3,8 @@
 
  DHCP, FTP, IP, DNS 
 ## DHCP 
+#sumarization  
+**DHCP:** it’s a protocol for network management and it’s used for the method of automating the process of configuring devices on IP networks. A DHCP server automatically assigns an IP address and various other configurational changes to devices on a network so they can communicate with other IP networks. it also allows devices to use various services such as NTP, DNS, or any other protocol based on TCP or UDP.
 a dhcp server automatically assigns a computer an : 
 - ip address 
 - subnet mask 
@@ -17,5 +19,5 @@ scope of the ip address is the number of unique ip address that the DHCP server 
 when an ip address is created using dhcp method the computer will not own the ip address but it is a least that the dhcp will give 
  
 ![[reservation.PNG]]
-the ip address on the reservation mean that the devices in the resivation will aways receive the same ip address 
+the ip address on the reservation mean that the devices in the resivation will aways receive the same ip address this is usally used by router and switches as appose to host end devices 
 
