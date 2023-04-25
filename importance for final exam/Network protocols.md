@@ -10,4 +10,8 @@ a dhcp server automatically assigns a computer an :
 - Dns server 
 when you seleact a atomatic ip address in the  window 
 ![[atomic.PNG]]
-you will be giv
+you will be given an atomatic ip address by the dns server 
+![[scope.PNG]]
+scope of the ip address is the number of unique ip address that the DHCP server can obtain 
+!
+
