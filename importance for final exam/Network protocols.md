@@ -41,4 +41,6 @@ it do this by a three way hand sack
 TCP guarantees the delivery of the data 
 mean that when a data packet goes astray or does not deliver it will not send it 
 ## udp 
-is a connectionless 
+is a connectionless sending 
+udp is consider a fire and forget protocol 
+udp is consider much faster then tcp 
