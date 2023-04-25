@@ -26,4 +26,7 @@ standard protocol that is used to transfer file
 between computer and servers over a network 
 you can also used your computer as a server 
 
-somethime ftp can be anonymous or 
+somethime ftp can be anonymous or they need you to have acount 
+give the ability of website designner to upload to the server 
+data is send in clear text so it is not very secure 
+secure ftp is
