@@ -14,5 +14,7 @@ you will be given an atomatic ip address by the dns server
 ![[scope.PNG]]
 scope of the ip address is the number of unique ip address that the DHCP server can obtain 
 ![[lease.PNG]] 
-when an ip address is created using dhcp method the computer will not own the ip address but it is a least 
-
+when an ip address is created using dhcp method the computer will not own the ip address but it is a least that the dhcp will give 
+ 
+![[reservation.PNG]]
+the i
