@@ -22,3 +22,5 @@ when an ip address is created using dhcp method the computer will not own the ip
 the ip address on the reservation mean that the devices in the resivation will aways receive the same ip address this is usally used by router and switches as appose to host end devices 
 
 ## FTP (file transfer Protocol )
+standard protocol that is used to transfer file 
+between computer and servers over a network 
