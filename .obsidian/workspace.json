@@ -174,9 +174,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "46327d06f81445ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "importance for final exam/internet ip.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -242,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "importance for final exam/Network protocols.md",
+                "file": "importance for final exam/internet ip.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "importance for final exam/Network protocols.md",
+                "file": "importance for final exam/internet ip.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "importance for final exam/Network protocols.md"
+                "file": "importance for final exam/internet ip.md"
               }
             }
           }
@@ -304,11 +316,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c6d9ab838d2d947c",
+  "active": "46327d06f81445ed",
   "lastOpenFiles": [
+    "importance for final exam/Network protocols.md",
+    "importance for final exam/internet ip.md",
     "picture/three.PNG",
     "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
-    "importance for final exam/Network protocols.md",
     "SELF TESTING.md",
     "lab1-Introduction/Computer Networks and the Internet.md",
     "lab1-Introduction/link physical media.md",
@@ -333,7 +346,6 @@
     "thực hành/basic cisco command lab1.md",
     "picture/what is subneting.PNG",
     "picture/subnet.PNG",
-    "picture/subnet mask.PNG",
     "importance for final exam/my ip public.md",
     "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf",
     "pdf/Computer Networks And The Internet A Hands-On Approach by Gerry Howser (z-lib.org).pdf",
