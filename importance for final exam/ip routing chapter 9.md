@@ -30,3 +30,6 @@ of out-of-band
 
 lam chapter 6 ,9 
 lam vlan voi trunking
+
+cico cnna routing 1 
+data link lab 2
