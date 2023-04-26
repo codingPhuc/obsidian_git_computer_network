@@ -140,67 +140,19 @@
             }
           },
           {
-            "id": "67f90a82d8ffe24f",
+            "id": "56b22236f7dc570f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lab1-Introduction/network edge.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2536a612aa25638",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6d9ab838d2d947c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "importance for final exam/Network protocols.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46327d06f81445ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "importance for final exam/internet ip.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e049a19c1d1c1d91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "importance for final exam/ip routing chapter 9.md",
+                "file": "thực hành/b) cau hinh bao mat.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -266,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "importance for final exam/ip routing chapter 9.md",
+                "file": "thực hành/b) cau hinh bao mat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "importance for final exam/ip routing chapter 9.md",
+                "file": "thực hành/b) cau hinh bao mat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "importance for final exam/ip routing chapter 9.md"
+                "file": "thực hành/b) cau hinh bao mat.md"
               }
             }
           }
@@ -328,24 +280,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e049a19c1d1c1d91",
+  "active": "56b22236f7dc570f",
   "lastOpenFiles": [
+    "lab1-Introduction/Untitled 1.md",
+    "thực hành/b) cau hinh bao mat.md",
+    "lab1-Introduction/network edge.md",
+    "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+    "importance for final exam/Network protocols.md",
     "importance for final exam/internet ip.md",
     "importance for final exam/ip routing chapter 9.md",
-    "importance for final exam/Network protocols.md",
     "picture/three.PNG",
-    "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
     "SELF TESTING.md",
     "lab1-Introduction/Computer Networks and the Internet.md",
     "lab1-Introduction/link physical media.md",
     "lab1-Introduction/what the internet nut and bolt view.md",
-    "lab1-Introduction/Untitled 1.md",
     "lab1-Introduction/the network core.md",
     "picture/reservation.PNG",
     "picture/lease.PNG",
     "picture/scope.PNG",
     "picture/atomic.PNG",
-    "lab1-Introduction/network edge.md",
     "picture/network layout.PNG",
     "picture/caper.PNG",
     "protocol.md",
@@ -369,7 +322,6 @@
     "rename",
     "Untitled 6.md",
     "Untitled 5.md",
-    "Untitled 4.md",
     "thực hành",
     "picture",
     "New folder",
