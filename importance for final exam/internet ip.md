@@ -24,4 +24,6 @@ vty Virtual terminal
 Switch(config)#line console 0
 Switch(config-line)#
 ```
-the line console 0 is the go
+the line console 0 in the config section is the global command  
+the command line in config line is the subcommand line 
+## routing protocol
