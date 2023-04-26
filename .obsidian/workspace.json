@@ -186,9 +186,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e049a19c1d1c1d91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "importance for final exam/ip routing chapter 9.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -254,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "importance for final exam/internet ip.md",
+                "file": "importance for final exam/ip routing chapter 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "importance for final exam/internet ip.md",
+                "file": "importance for final exam/ip routing chapter 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "importance for final exam/internet ip.md"
+                "file": "importance for final exam/ip routing chapter 9.md"
               }
             }
           }
@@ -316,10 +328,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "46327d06f81445ed",
+  "active": "e049a19c1d1c1d91",
   "lastOpenFiles": [
-    "importance for final exam/Network protocols.md",
     "importance for final exam/internet ip.md",
+    "importance for final exam/ip routing chapter 9.md",
+    "importance for final exam/Network protocols.md",
     "picture/three.PNG",
     "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
     "SELF TESTING.md",
@@ -357,7 +370,6 @@
     "Untitled 6.md",
     "Untitled 5.md",
     "Untitled 4.md",
-    "layered internet protocol stack.md",
     "thực hành",
     "picture",
     "New folder",
