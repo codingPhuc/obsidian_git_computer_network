@@ -27,3 +27,12 @@ Switch(config-line)#
 the line console 0 in the config section is the global command  
 the command line in config line is the subcommand line 
 ## routing protocol
+configuring routing on a layer 3 switch 
+
+```
+Switch(config)#router rip
+IP routing not enabled
+Switch(config)#ip routing
+Switch(config)#router rip
+Switch(config-router)#
+```
