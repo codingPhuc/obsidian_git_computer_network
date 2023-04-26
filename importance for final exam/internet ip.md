@@ -6,5 +6,22 @@ to make chang to a interface you must first find out about all the interfaces
 when you enter into the configuration mode 
 ```
 switch(config)# interface ? 
-<<show 
+<<show list of interface >>
 ```
+then pick an interface to config 
+```
+Switch(config)#interface fastEthernet 0/1
+Switch(config-if)#
+```
+line commands 
+To configure user-mode passwords, use the line command. The prompt then becomes
+```
+Switch(config-line)#:
+Switch(config)#line ?
+<0-15> First Line number
+console Primary terminal line
+vty Virtual terminal
+Switch(config)#line console 0
+Switch(config-line)#
+```
+the line console 0 is the go
