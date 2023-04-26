@@ -27,3 +27,6 @@ modem can be connected to the router.
 third way to connect to a Cisco device is in-band , through the program Telnet or
 Secure Shell (SSH) . In-band means confi guring the device via the network, the opposite
 of out-of-band
+
+lam chapter 6 ,9 
+lam vlan voi trunking
