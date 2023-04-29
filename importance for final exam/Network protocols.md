@@ -26,6 +26,8 @@ standard protocol that is used to transfer file
 between computer and servers over a network 
 you can also used your computer as a server 
 
+
+
 somethime ftp can be anonymous or they need you to have acount 
 give the ability of website designner to upload to the server 
 data is send in clear text so it is not very secure 
@@ -44,3 +46,7 @@ mean that when a data packet goes astray or does not deliver it will not send it
 is a connectionless sending 
 udp is consider a fire and forget protocol 
 udp is consider much faster then tcp 
+
+
+
+
