@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thực hành/b) cau hinh bao mat.md",
+                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
                 "mode": "source",
                 "source": false
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thực hành/b) cau hinh bao mat.md",
+                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thực hành/b) cau hinh bao mat.md",
+                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thực hành/b) cau hinh bao mat.md"
+                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md"
               }
             }
           }
@@ -282,15 +282,15 @@
   },
   "active": "56b22236f7dc570f",
   "lastOpenFiles": [
+    "importance for final exam/ip routing chapter 9.md",
+    "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+    "thực hành/b) cau hinh bao mat.md",
     "picture/link.PNG",
     "thực hành/basic cisco command lab1.md",
-    "thực hành/b) cau hinh bao mat.md",
     "lab1-Introduction/Untitled 1.md",
     "lab1-Introduction/network edge.md",
-    "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
     "importance for final exam/Network protocols.md",
     "importance for final exam/internet ip.md",
-    "importance for final exam/ip routing chapter 9.md",
     "picture/three.PNG",
     "SELF TESTING.md",
     "lab1-Introduction/Computer Networks and the Internet.md",
@@ -312,7 +312,6 @@
     "thực hành/what is a subnet mask.md",
     "picture/image.PNG",
     "picture/what is subneting.PNG",
-    "picture/subnet.PNG",
     "importance for final exam/my ip public.md",
     "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf",
     "pdf/Computer Networks And The Internet A Hands-On Approach by Gerry Howser (z-lib.org).pdf",
