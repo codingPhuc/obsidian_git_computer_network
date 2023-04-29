@@ -6,3 +6,5 @@ an end device is a device that is connected to a network and participates direct
 ### the different between end system and end devices 
 - end systems are generally connected to each oter using switching devices known as routers rather than using a  single communication link .
 - end systems is able to connect to the internet while end devices only referee to devices that communicate in a network
+### host concept computer network 
+in computer network a host refers to a computer that can interated with other host in a network , host can be servers responsible 
