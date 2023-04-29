@@ -10,4 +10,5 @@ an end device is a device that is connected to a network and participates direct
 in computer network a host refers to a computer that can interated with other host in a network , host can be servers responsible for [for transmitting and receiving data, services, and applications](https://linuxsimply.com/what-is-host-in-computer-network/)
 host have their unique ip address on a TCP or IP network 
 ## network edge computer network 
-the network edge refer to an area where the devices or the local network interfaces with the internet . The edge si close to the devices it is communicating meaning that it is in the same network as the devices or network and is an entry point to the internet or a different network 
+- the network edge refer to an area where the devices or the local network interfaces with the internet . The edge si close to the devices it is communicating meaning that it is in the same network as the devices or network and is an entry point to the internet or a different network 
+- network edge are crucial to security boundary that network administrators must provide solution for 
