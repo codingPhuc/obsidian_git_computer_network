@@ -12,3 +12,8 @@ host have their unique ip address on a TCP or IP network
 ## network edge computer network 
 - the network edge refer to an area where the devices or the local network interfaces with the internet . The edge si close to the devices it is communicating meaning that it is in the same network as the devices or network and is an entry point to the internet or a different network 
 - network edge are crucial to security boundary that network administrators must provide solution for 
+
+## network core 
+mesh of interconnected router 
+packet-switching : host break application layer messages into packets 
+- network wfroward packet from one router to anothe
