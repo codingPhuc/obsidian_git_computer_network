@@ -43,5 +43,11 @@ as we can se the each path connected to each router  have 4 link and each link h
 this will prevent packet loses , dedicated recourse no sharing ciscus link
 the downside is it will make the circus unsable if to the other conputer if the computer is not dedicated to circus
 
-### there are two way that 
+### there are two way that circus switching 
+FDM Frequency division multiplexing 
+![[fdm.PNG]]
+circus will be assgin a single user 
+TDM  Time division Multiplexing 
+![[tdm.PNG]]
+circ
 
