@@ -40,4 +40,6 @@ the network layer will then give it a ip destination address
 the data link layer will add both a header and a trailer the header will have the source mac address the trailer will have the error checking code 
 
 when the data is in the appplication layer it will be call a segment 
-when the data is in the 
+when the data is in the network layer it is call a packet 
+when the data is in the data link layer it is call a frame 
+
