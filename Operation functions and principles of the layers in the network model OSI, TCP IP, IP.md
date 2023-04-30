@@ -16,4 +16,4 @@ The OSI (Open Systems Interconnection) model is a conceptual framework used to s
 7.  Application layer: Provides services directly to the user, responsible for providing access to network resources and user interfaces.
     
 
-**
+

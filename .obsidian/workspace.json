@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+                "file": "Operation functions and principles of the layers in the network model OSI, TCP IP, IP.md",
                 "mode": "source",
                 "source": false
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+                "file": "Operation functions and principles of the layers in the network model OSI, TCP IP, IP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+                "file": "Operation functions and principles of the layers in the network model OSI, TCP IP, IP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md"
+                "file": "Operation functions and principles of the layers in the network model OSI, TCP IP, IP.md"
               }
             }
           }
@@ -280,11 +280,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d0822c1b3111e56d",
+  "active": "56b22236f7dc570f",
   "lastOpenFiles": [
-    "importance for final exam/Network protocols.md",
     "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
-    "Operation functions and principles of the layers in the network model.md",
+    "Operation functions and principles of the layers in the network model OSI, TCP IP, IP.md",
+    "importance for final exam/Network protocols.md",
     "Concepts of end systems,end devices,hosts, network edge, network core.md",
     "picture/tdm.PNG",
     "picture/fdm.PNG",
