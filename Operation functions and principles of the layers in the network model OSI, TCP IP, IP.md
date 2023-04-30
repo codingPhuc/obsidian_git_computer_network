@@ -1,4 +1,4 @@
-
+[Layers of OSI Model - GeeksforGeeks](https://www.geeksforgeeks.org/layers-of-osi-model/)
 The OSI (Open Systems Interconnection) model is a conceptual framework used to standardize communication protocols and facilitate interoperability between different computer systems. It consists of seven layers, each with its own set of functions and responsibilities:
 
 1.  Physical layer: Transmits raw bitstream over the physical medium, responsible for transmitting the data across the physical medium.
