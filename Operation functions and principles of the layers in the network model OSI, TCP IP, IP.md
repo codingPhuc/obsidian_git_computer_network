@@ -2,6 +2,7 @@
 The OSI (Open Systems Interconnection) model is a conceptual framework used to standardize communication protocols and facilitate interoperability between different computer systems. It consists of seven layers, each with its own set of functions and responsibilities:
 
 1.  Physical layer: Transmits raw bitstream over the physical medium, responsible for transmitting the data across the physical medium.
+ contain cable ,network
     
 2.  Data link layer: Provides reliable transfer of data frames between two adjacent nodes, responsible for error detection and correction and providing a flow control mechanism.
     
@@ -17,7 +18,9 @@ The OSI (Open Systems Interconnection) model is a conceptual framework used to s
     
 
 
-
+[OSI Model Explained | Real World Example - YouTube](https://www.youtube.com/watch?v=LANW3m7UgWs)
+trouble shooting 
+the error in each layer 
 ##  TCP/IP Model 
 a model designed to standardies computer networking 
 ### 5 Application 
