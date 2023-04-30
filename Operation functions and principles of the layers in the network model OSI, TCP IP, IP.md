@@ -36,4 +36,8 @@ cables , NIC(network interface card )
 ![[data.PNG]]
 the application layer contain the data 
 the  tranport layter will give it a tcp or destination address 
-the network layer will g
+the network layer will then give it a ip destination address 
+the data link layer will add both a header and a trailer the header will have the source mac address the trailer will have the error checking code 
+
+when the data is in the appplication layer it will be call a segment 
+when the data is in the 
