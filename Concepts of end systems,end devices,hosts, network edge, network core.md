@@ -34,3 +34,4 @@ routing will determind the forwaded road we will be taken on the each intersecti
 ### paket switching : store and forward 
 packet trenasmission delay : takes L/R secodnd to transmit (push out) L-bit packet into link at R bps 
 store and forward : entire packet must arrive at route before it can be transmitted on next link 
+##
