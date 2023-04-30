@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operation functions and principles of the layers in the network model.md",
+                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
                 "mode": "source",
                 "source": false
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operation functions and principles of the layers in the network model.md",
+                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operation functions and principles of the layers in the network model.md",
+                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operation functions and principles of the layers in the network model.md"
+                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md"
               }
             }
           }
@@ -280,8 +280,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "56b22236f7dc570f",
+  "active": "d0822c1b3111e56d",
   "lastOpenFiles": [
+    "importance for final exam/Network protocols.md",
     "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
     "Operation functions and principles of the layers in the network model.md",
     "Concepts of end systems,end devices,hosts, network edge, network core.md",
@@ -292,7 +293,6 @@
     "picture/forwarding.PNG",
     "importance for final exam/internet ip.md",
     "importance for final exam/ip routing chapter 9.md",
-    "importance for final exam/Network protocols.md",
     "thực hành/b) cau hinh bao mat.md",
     "picture/link.PNG",
     "thực hành/basic cisco command lab1.md",
