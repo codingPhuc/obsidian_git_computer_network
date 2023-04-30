@@ -20,7 +20,13 @@ The OSI (Open Systems Interconnection) model is a conceptual framework used to s
 
 ##  TCP/IP Model 
 a model designed to standardies computer networking 
-### Application 
-### tranport 
-### internet 
-### link 
+### 5 Application 
+application protocol 
+http , ftp smtp 
+### 4tranport 
+tcp , udp 
+### 3 network 
+ip , routers 
+### 2 data link 
+ethernet  switches 
+### 1 physical
