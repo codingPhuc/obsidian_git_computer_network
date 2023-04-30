@@ -15,7 +15,7 @@ THE DATA IN THIS SECTION ARE CALL PACKET
     
 4.  Transport layer: Provides reliable, end-to-end data transport services, responsible for segmentation and reassembly, error detection, and flow control.
 TCP , UDP ,PORT NUMBERS 
-THE DATA IN THIS SECTION
+THE DATA IN THIS SECTION ARE CALL SEGMENT
     
 5.  Session layer: Establishes and manages sessions between applications, responsible for establishing, managing and terminating connections.
 START  AND STOP SESSIIONS 
