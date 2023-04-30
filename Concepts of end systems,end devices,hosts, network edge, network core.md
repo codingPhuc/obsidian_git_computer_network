@@ -26,4 +26,6 @@ when a router one to forward a packet into another adjacent router it will first
 
 ### Routing : 
 routing is the thing that created routing table 
-is a global action : determine sou
+is a global action : determine source destination path taken by packet , meanning that it will assign a path for the destination bases on the packet 
+routing algorithms 
+#### expample 
