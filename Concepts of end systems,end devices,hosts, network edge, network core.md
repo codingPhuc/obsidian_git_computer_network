@@ -22,4 +22,8 @@ forwading is a local action :
 moving arriving packet form router input link 
 to appropriate router output link 
 ![[forwarding.PNG]] 
-when a router one to forward a packet into another adjacent router it will first look at the packet destination address then forward it on the pat 
+when a router one to forward a packet into another adjacent router it will first look at the packet destination address then forward it on the path assgin by the forwarding table to another router 
+
+### Routing : 
+routing is the thing that created routing table 
+is a global action : determine sou
