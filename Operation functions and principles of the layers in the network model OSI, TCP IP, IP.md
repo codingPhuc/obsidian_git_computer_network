@@ -31,3 +31,9 @@ ip , routers
 ethernet  switches 
 ### 1 physical
 cables , NIC(network interface card )
+
+
+![[data.PNG]]
+the application layer contain the data 
+the  tranport layter will give it a tcp or destination address 
+the network layer will g
