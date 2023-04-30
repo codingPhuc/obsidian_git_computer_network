@@ -30,3 +30,4 @@ ip , routers
 ### 2 data link 
 ethernet  switches 
 ### 1 physical
+cables , NIC(network interface card )
