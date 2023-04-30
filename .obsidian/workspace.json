@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts of end systems,end devices,hosts, network edge, network core.md",
+                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
                 "mode": "source",
                 "source": false
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts of end systems,end devices,hosts, network edge, network core.md",
+                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts of end systems,end devices,hosts, network edge, network core.md",
+                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts of end systems,end devices,hosts, network edge, network core.md"
+                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md"
               }
             }
           }
@@ -282,13 +282,13 @@
   },
   "active": "56b22236f7dc570f",
   "lastOpenFiles": [
+    "Concepts of end systems,end devices,hosts, network edge, network core.md",
     "picture/tdm.PNG",
     "picture/fdm.PNG",
     "picture/ciscus switch.PNG",
     "picture/routing forward.PNG",
     "picture/forwarding.PNG",
     "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
-    "Concepts of end systems,end devices,hosts, network edge, network core.md",
     "importance for final exam/internet ip.md",
     "importance for final exam/ip routing chapter 9.md",
     "importance for final exam/Network protocols.md",
@@ -306,7 +306,6 @@
     "picture/reservation.PNG",
     "picture/lease.PNG",
     "picture/scope.PNG",
-    "picture/atomic.PNG",
     "protocol.md",
     "Untitled 8.md",
     "Untitled 7.md",
