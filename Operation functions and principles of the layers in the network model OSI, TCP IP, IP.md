@@ -42,6 +42,9 @@ the data link layer will add both a header and a trailer the header will have th
 when the data is in the appplication layer it will be call a segment 
 when the data is in the network layer it is call a packet 
 when the data is in the data link layer it is call a frame 
-
+### in depht about the layer 
 1 physical layer 
-it is a group of 
+it is a group of application that is responsible for the generation of data and requesting connection 
+2 data link 
+The packet’s network protocol type, in this case, TCP/IP, is identified by the data-link layer. Error prevention and “framing” are also provided by the data-link layer.
+3 internet layer 
