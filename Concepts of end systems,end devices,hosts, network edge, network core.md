@@ -46,8 +46,9 @@ the downside is it will make the circus unsable if to the other conputer if the 
 ### there are two way that circus switching 
 FDM Frequency division multiplexing 
 ![[fdm.PNG]]
-circus will be assgin a single user 
+4 different circus will be assgin 4 different user for each circus  
 TDM  Time division Multiplexing 
 ![[tdm.PNG]]
-circ
+a single circus will tranmist each packet at different time frame 
+
 
