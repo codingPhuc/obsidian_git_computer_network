@@ -1,7 +1,7 @@
 Chapter: Computer Networks and the Internet
 - [[Network protocols]]: DHCP, FTP, IP, DNS, .... and it’s working principles.
 - [[Concepts of end systems,end devices,hosts, network edge, network core]], ....
-- Operation functions and principles of the layers in the network model OSI, TCP/IP, IP
+- [[Operation functions and principles of the layers in the network model]] OSI, TCP/IP, IP
 Stack;
 - Data encapsulation process.
 - Protocol data units (PDUs) at the layers of the OSI model.
