@@ -39,5 +39,6 @@ disadvantage of paket switching if the arrival rate of a packet exede the forwar
 ## circus switching : 
 mean that when a packet is send form one souce to the destination it will first be allocated the require link circus 
 ![[ciscus switch.PNG]]
-as we can se the each path have 4 link circus the path from the first computer to the second is reserve 
+as we can se the each path connected to each router  have 4 link and each link have 4 circus , the path from the first computer to the second is tranmisted to the second circus   in the first link then the 1 circus in the second link 
+this will prevent packet loses 
 
