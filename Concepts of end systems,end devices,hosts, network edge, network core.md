@@ -37,4 +37,5 @@ store and forward : entire packet must arrive at route before it can be transmit
 disadvantage of paket switching if the arrival rate of a packet exede the forwarding speed packet that arrive later will be force to queue and wait for the other packet to finish if the buffer of the router is full than the packet will be lost
 
 ## circus switching : 
+mean that when a packet is send form one souce t
 
