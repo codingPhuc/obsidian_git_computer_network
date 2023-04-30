@@ -43,3 +43,5 @@ when the data is in the appplication layer it will be call a segment
 when the data is in the network layer it is call a packet 
 when the data is in the data link layer it is call a frame 
 
+1 physical layer 
+it is a group of 
