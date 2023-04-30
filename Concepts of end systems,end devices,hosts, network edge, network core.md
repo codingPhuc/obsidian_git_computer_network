@@ -21,3 +21,5 @@ packet-switching : host break application layer messages into packets
 forwading is a local action :
 moving arriving packet form router input link 
 to appropriate router output link 
+![[forwarding.PNG]] 
+when a router one to forward a packet into another adjacent router it will first look at the packet destination address then forward it on the pat 
