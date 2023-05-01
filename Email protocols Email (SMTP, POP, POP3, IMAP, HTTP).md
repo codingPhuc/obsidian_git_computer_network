@@ -16,6 +16,10 @@ http overview
 2. at most one object sent over tcp connection 
 3. tcp connection closed 
 this mean that for each object the whole connection need to start for that single object meaning that that more object the more connection the tcp need to do 
-### persistent http 
+example 
 
+### persistent http 
+1. tcp connection opened to a server 
+2.  multiple objct can be send over single tcp connection between client , and that server 
+3. tcp connection is closed 
 	
