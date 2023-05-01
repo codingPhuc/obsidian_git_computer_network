@@ -1,4 +1,2 @@
 
-
-
-electronic mail if you would just forward the message to the right user , he need to sepperate the internet machine with the user inte every body we dont need to be awake to communicate we dont need we used 
+The application layer is used by end-user software such as web browsers and email clients. It provides protocols that allow software to send and receive information and present meaningful data to users. A few examples of application layer protocols are the [Hypertext Transfer Protocol](https://www.imperva.com/learn/performance/http2/) (HTTP), File Transfer Protocol (FTP), Post Office Protocol (POP), Simple Mail Transfer Protocol (SMTP), and Domain Name System (DNS).
