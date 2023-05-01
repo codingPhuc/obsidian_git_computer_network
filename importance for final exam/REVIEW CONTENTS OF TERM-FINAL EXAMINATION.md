@@ -8,7 +8,7 @@ Stack;
 - Protocol data units (PDUs) at the layers of the OSI model.
 - Abbreviated terms
 Chapter: Application layer
-- Application layer applications and corresponding protocols?
+- [[Application layer applications and corresponding protocols]]
 - Email protocols Email (SMTP, POP, POP3, IMAP, HTTP)
 - Domain Name System (Domain Name System) and its functions.
 - File distribution time (File Distribution) between client-server; P2P
