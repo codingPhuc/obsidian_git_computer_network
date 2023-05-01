@@ -12,5 +12,10 @@ http overview
 	 - if server client crashes , thier view of the state will be inconsistent 
 ## http connect 
 ### no persistent HTTP 
-1. TCP CONNEC
+1. TCP CONNECtion is oepend 
+2. at most one object sent over tcp connection 
+3. tcp connection closed 
+this mean that for each object the whole connection need to start for that single object meaning that that more object the more connection the tcp need to do 
+### persistent http 
+
 	
