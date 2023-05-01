@@ -7,5 +7,10 @@ http overview
 	- server : web server sends(using HTTP protocol ) objects in response to requests 
 	- tcp connections closed 
  HTTP IS "stateless"
- - server maintains no information about past client requests the resond why is because protocol at
+ - server maintains no information about past client requests the resond why is because protocol that maintain state are really complex 
+	 - the resond on why this is , is because past history (state) must be maintaind 
+	 - if server client crashes , thier view of the state will be inconsistent 
+## http connect 
+### no persistent HTTP 
+1. TCP CONNEC
 	
