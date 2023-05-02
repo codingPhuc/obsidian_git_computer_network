@@ -51,11 +51,18 @@ only download what in your inbox folder
 it does not have synconization :
 meaning that if one computer want to download your email in the email server using pop , the email will be remove from the server without leaving a copy , so if another computer wanted to download the same email it will not be downloaded 
 ### advantage and disadvantages
-
+advantage 
+- your email can be view with out the need of a internet connection 
+- save storage place on your mail server 
+disadvantage 
+- your computer is more likly to have a virus 
+- the content of the email will be lost if the computer crashes 
 ## Imap 
 imap allow you to view your email , that on the server from multiple devices 
 imap caches local copies of the email onto all of your devices meaning that if you want to view your email in a different computer you imap can synchronized it with the other computer 
 so every computer phone or devieces you have will be synch with all computer 
+### advantage and disadvantages
+- all the email can be s
 
 ![[pop.PNG]]
 
