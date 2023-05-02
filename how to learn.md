@@ -3,7 +3,7 @@
 - should be reapted thourght out the procees 
 2. forcus 
 - avoding distraction 
-- avoid alret 
+- avoid be forcus when the subject demain hige brain power 
 3. directness 
 - do what is most necessary to learn 
 - like if you want to speak spanish you should speak to people with spanish instead of doing somthing else 
