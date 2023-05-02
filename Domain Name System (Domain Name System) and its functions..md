@@ -33,8 +33,12 @@ network solution : authoritative registry for .com , .net tld
 ## authoritatives DNS server : 
 organization own dns SERVER(S) ,providing authoritative hostname  to ip mapping for organization named host 
 can be maintained by organization or service provider 
-
+### dns name resolutio niterated query 
 ![[dns server name.PNG]]
 it like an ask and tell which person to ask next for direction 
 1. the computer ask the local dns server
-2. the local dns server then ask root dns for the top down dns with .
+2. the local dns server then ask root dns for the top down dns with .edu 
+3. the local then ask the .edu for the umass dns server 
+4. then the cocal ask the umass server for the ip address of the requested website 
+5. the local server will then respond 
+### recursive query 
