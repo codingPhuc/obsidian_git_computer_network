@@ -39,7 +39,8 @@ user agent is what your computer used to composed sent email interface to create
 is like a mail box contains incoming messages for user 
 - message queue of out going (to be sent) mail messages 
 SMTP  protocol between mail servers to send email messages 
-
+![[kinship.PNG]]
+to sumarize the information above the 1
 
 
 
