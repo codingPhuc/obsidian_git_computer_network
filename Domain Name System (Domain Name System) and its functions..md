@@ -34,4 +34,7 @@ network solution : authoritative registry for .com , .net tld
 organization own dns SERVER(S) ,providing authoritative hostname  to ip mapping for organization named host 
 can be maintained by organization or service provider 
 
-
+![[dns server name.PNG]]
+it like an ask and tell which person to ask next for direction 
+1. the computer ask the local dns server
+2. the local dns server then ask root dns for the top down dns with .
