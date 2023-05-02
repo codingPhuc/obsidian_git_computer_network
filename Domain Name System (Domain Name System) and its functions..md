@@ -12,4 +12,5 @@ host name to ip address translation
 host aliansing 
 - canonical ,alias names 
 mail server aliasing 
-load 
+load distribution 
+- replicated webservers : many ip addresses correspond to one name 
