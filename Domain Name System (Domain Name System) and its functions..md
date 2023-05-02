@@ -18,4 +18,6 @@ load distribution
 root dns servers 
 ![[root.PNG]]
 if let say that the client want to ip address for www.amazon.com 
-1. the client queries root server to find th
+1. the client queries root server to find the .com dns server 
+2. client queries .com dns server to get amazon.com dns server 
+3. client then queries amazon.com to get the ip address for www.amazon.com 
