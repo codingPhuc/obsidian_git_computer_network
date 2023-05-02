@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "how to learn.md",
+                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
                 "mode": "source",
                 "source": false
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "how to learn.md",
+                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "how to learn.md",
+                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "how to learn.md"
+                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md"
               }
             }
           }
@@ -282,9 +282,12 @@
   },
   "active": "56b22236f7dc570f",
   "lastOpenFiles": [
-    "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
-    "importance for final exam/internet ip.md",
+    "importance for final exam/ip routing chapter 9.md",
+    "importance for final exam/Network protocols.md",
     "Domain Name System (Domain Name System) and its functions..md",
+    "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+    "how to learn.md",
+    "importance for final exam/internet ip.md",
     "picture/sdfasad.PNG",
     "picture/dns server name.PNG",
     "picture/root.PNG",
@@ -293,7 +296,6 @@
     "lab1-Introduction/what the internet nut and bolt view.md",
     "Email protocols Email (SMTP, POP, POP3, IMAP, HTTP).md",
     "picture/pop.PNG",
-    "importance for final exam/Network protocols.md",
     "picture/smtp.PNG",
     "picture/kinship.PNG",
     "picture/tcpd.PNG",
@@ -303,7 +305,6 @@
     "picture/data.PNG",
     "Concepts of end systems,end devices,hosts, network edge, network core.md",
     "picture/tdm.PNG",
-    "importance for final exam/ip routing chapter 9.md",
     "thực hành/b) cau hinh bao mat.md",
     "thực hành/basic cisco command lab1.md",
     "lab1-Introduction/Untitled 1.md",
