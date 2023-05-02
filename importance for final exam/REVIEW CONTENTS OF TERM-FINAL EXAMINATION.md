@@ -52,4 +52,4 @@ Chapter: Security in Computer Networks
 - Functions of Firewall.
 - Types of Firewalls
 - Features of wireless encryption standards WPA, WEP, WPA2, ...
-- Abbreviated terms such as IDS, NAT, SPI, ….
+- Abbreviated terms such as IDS, NAT, SPI, 
