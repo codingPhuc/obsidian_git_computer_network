@@ -46,3 +46,6 @@ to sumarize the information above alice first compose the email then send it to 
 
 ## pop
 is used for retreiving email ofrm an email server 
+the only thing that pop3 does , is download the email to your device from a mail server 
+only download what in your inbox folder 
+it does not have synconization 
