@@ -16,3 +16,6 @@ load distribution
 - replicated webservers : many ip addresses correspond to one name 
 ### dns a distributed hierarchical database 
 root dns servers 
+![[root.PNG]]
+if let say that the client want to ip address for www.amazon.com 
+1. the client queries root server to find th
