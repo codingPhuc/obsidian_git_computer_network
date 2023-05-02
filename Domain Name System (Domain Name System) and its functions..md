@@ -24,4 +24,8 @@ if let say that the client want to ip address for www.amazon.com
 ### root server 
 a place to go whent a server cannot resolve a name 
 incredibly important internet function 
-- i
+- internet could function without it ! 
+- provide sercurity 
+ICANN (internet corporation for assgined names and numbers) manages root DNS domain 
+## top level domain 
+responsible for .com , .org , .net ,e
