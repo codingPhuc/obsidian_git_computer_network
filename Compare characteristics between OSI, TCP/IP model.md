@@ -1,0 +1,1 @@
+![[COMPARISION.PNG]]
