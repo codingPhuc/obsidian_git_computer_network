@@ -19,4 +19,6 @@
 - how to deal with how you understand 
 - dont give up on hard problem 
 - prove thing in order to understand it 
-- write down a conc
+- write down a concelp our probelm then write it out and explain it to some one else 
+9. experimentation 
+- you need to get more creative you want to learn you have to start experimenting to create your own path 
