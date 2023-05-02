@@ -45,3 +45,4 @@ to sumarize the information above alice first compose the email then send it to 
 
 
 ## pop
+is used for retreiving email ofrm an email server 
