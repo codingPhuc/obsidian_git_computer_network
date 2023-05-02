@@ -41,6 +41,7 @@ is like a mail box contains incoming messages for user
 SMTP  protocol between mail servers to send email messages 
 ![[kinship.PNG]]
 to sumarize the information above alice first compose the email then send it to alice server the server then sent the email to a server that bob used using a tcp protocol 
+![[smtp.PNG]]
 
 
 
