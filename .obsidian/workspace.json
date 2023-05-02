@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Email protocols Email (SMTP, POP, POP3, IMAP, HTTP).md",
+                "file": "Domain Name System (Domain Name System) and its functions..md",
                 "mode": "source",
                 "source": false
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Email protocols Email (SMTP, POP, POP3, IMAP, HTTP).md",
+                "file": "Domain Name System (Domain Name System) and its functions..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Email protocols Email (SMTP, POP, POP3, IMAP, HTTP).md",
+                "file": "Domain Name System (Domain Name System) and its functions..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Email protocols Email (SMTP, POP, POP3, IMAP, HTTP).md"
+                "file": "Domain Name System (Domain Name System) and its functions..md"
               }
             }
           }
@@ -282,10 +282,11 @@
   },
   "active": "56b22236f7dc570f",
   "lastOpenFiles": [
-    "picture/pop.PNG",
     "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
-    "importance for final exam/Network protocols.md",
+    "Domain Name System (Domain Name System) and its functions..md",
     "Email protocols Email (SMTP, POP, POP3, IMAP, HTTP).md",
+    "picture/pop.PNG",
+    "importance for final exam/Network protocols.md",
     "picture/smtp.PNG",
     "picture/kinship.PNG",
     "picture/tcpd.PNG",
@@ -298,7 +299,6 @@
     "picture/fdm.PNG",
     "picture/ciscus switch.PNG",
     "picture/routing forward.PNG",
-    "picture/forwarding.PNG",
     "importance for final exam/internet ip.md",
     "importance for final exam/ip routing chapter 9.md",
     "thực hành/b) cau hinh bao mat.md",

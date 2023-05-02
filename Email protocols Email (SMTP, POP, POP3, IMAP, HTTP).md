@@ -62,7 +62,11 @@ imap allow you to view your email , that on the server from multiple devices
 imap caches local copies of the email onto all of your devices meaning that if you want to view your email in a different computer you imap can synchronized it with the other computer 
 so every computer phone or devieces you have will be synch with all computer 
 ### advantage and disadvantages
-- all the email can be s
+- all the email can be send in different server 
+- you will be able to see all your email . Including sent items , draft , deleted items , and nay cystom folders 
+- all the emails and folders are synchornized 
+disadvantage 
+- email is not viewable without an internet connection 
 
 ![[pop.PNG]]
 
