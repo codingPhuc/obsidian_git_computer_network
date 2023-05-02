@@ -18,7 +18,8 @@ http overview
 this mean that for each object the whole connection need to start for that single object meaning that that more object the more connection the tcp need to do 
 example 
 ![[tcp.PNG]]
-![[tcpd.PNG]]\
+![[tcpd.PNG]]
+
 
 
 ### persistent http 
