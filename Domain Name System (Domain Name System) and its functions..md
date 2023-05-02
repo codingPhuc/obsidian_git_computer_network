@@ -14,3 +14,5 @@ host aliansing
 mail server aliasing 
 load distribution 
 - replicated webservers : many ip addresses correspond to one name 
+### dns a distributed hierarchical database 
+root dns servers 
