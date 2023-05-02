@@ -28,3 +28,7 @@ example
 3. tcp connection is closed 
 
 
+
+# email 
+## three major components 
+- user agent
