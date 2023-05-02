@@ -51,4 +51,5 @@ only download what in your inbox folder
 it does not have synconization :
 meaning that if one computer want to download your email in the email server using pop , the email will be remove from the server without leaving a copy , so if another computer wanted to download the same email it will not be downloaded 
 ## Imap 
-imap allow you 
+imap allow you to view your email , that on the server from multiple devices 
+imap caches local copies of the email onto all of your devices meaning that if you want to view your email in a different computer you imap can synchronized it with the other compute
