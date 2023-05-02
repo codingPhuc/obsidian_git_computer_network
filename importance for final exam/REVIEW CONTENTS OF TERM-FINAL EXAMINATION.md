@@ -48,6 +48,18 @@ cost, speed of each type of cable, ...
 use crossover cable?
 - Functions and operating principles of the physical layer
 - Features of wireless encryption standards WPA, WEP, ...
+
+
+
+
+
+
+
+
+
+
+
+
 Chapter: Security in Computer Networks
 - Functions of Firewall.
 - Types of Firewalls
