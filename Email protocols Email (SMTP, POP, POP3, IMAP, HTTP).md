@@ -48,4 +48,7 @@ to sumarize the information above alice first compose the email then send it to 
 is used for retreiving email ofrm an email server 
 the only thing that pop3 does , is download the email to your device from a mail server 
 only download what in your inbox folder 
-it does not have synconization 
+it does not have synconization :
+meaning that if one computer want to download your email in the email server using pop , the email will be remove from the server without leaving a copy , so if another computer wanted to download the same email it will not be downloaded 
+## Imap 
+imap allow you 
