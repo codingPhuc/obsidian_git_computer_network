@@ -30,3 +30,8 @@ ICANN (internet corporation for assgined names and numbers) manages root DNS dom
 ## top level domain 
 responsible for .com , .org , .net ,.edu and all top-level country domain , eg : .cn , .uk 
 network solution : authoritative registry for .com , .net tld 
+authoritatives DNS server : 
+organization own dns SERVER(S) ,providing authoritative hostname  to ip mapping for organization named host 
+can be maintained by organization or service provider 
+## local name server 
+when h
