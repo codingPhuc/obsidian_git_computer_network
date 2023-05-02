@@ -282,6 +282,8 @@
   },
   "active": "56b22236f7dc570f",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "~syncthing~conflict-files-obsidian-git.md.tmp",
     "lab1-Introduction/what the internet nut and bolt view.md",
     "Domain Name System (Domain Name System) and its functions..md",
     "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
@@ -317,7 +319,6 @@
     "thực hành/ip address config.md",
     "thực hành/Packet Tracer – Subnet an IPv4 Network.md",
     "thực hành/what is a subnet mask.md",
-    "importance for final exam/my ip public.md",
     "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf",
     "pdf/Computer Networks And The Internet A Hands-On Approach by Gerry Howser (z-lib.org).pdf",
     "pdf/Computer Networks - A Tanenbaum - 5th edition.pdf",
@@ -326,7 +327,6 @@
     "picture",
     "New folder",
     "importance for final exam",
-    "~$Chapter_1_Introduction_v8.1.pptx",
-    "~$Chapter_2_Application Layer_v8.1.pptx"
+    "~$Chapter_1_Introduction_v8.1.pptx"
   ]
 }

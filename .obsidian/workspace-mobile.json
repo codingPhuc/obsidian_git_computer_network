@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "954c25f01ad65f59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+            "file": "conflict-files-obsidian-git.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+            "file": "conflict-files-obsidian-git.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md"
+            "file": "conflict-files-obsidian-git.md"
           }
         }
       }
@@ -132,10 +145,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e0cb2636978fadea",
+  "active": "954c25f01ad65f59",
   "lastOpenFiles": [
-    "Email protocols Email (SMTP, POP, POP3, IMAP, HTTP).md",
     "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+    "conflict-files-obsidian-git.md",
+    "Email protocols Email (SMTP, POP, POP3, IMAP, HTTP).md",
     "Domain Name System (Domain Name System) and its functions..md",
     "importance for final exam/Network protocols.md",
     "importance for final exam/ip routing chapter 9.md"
