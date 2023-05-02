@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -282,6 +282,7 @@
   },
   "active": "56b22236f7dc570f",
   "lastOpenFiles": [
+    "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
     "importance for final exam/internet ip.md",
     "Domain Name System (Domain Name System) and its functions..md",
     "picture/sdfasad.PNG",
@@ -290,7 +291,6 @@
     "conflict-files-obsidian-git.md",
     "~syncthing~conflict-files-obsidian-git.md.tmp",
     "lab1-Introduction/what the internet nut and bolt view.md",
-    "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
     "Email protocols Email (SMTP, POP, POP3, IMAP, HTTP).md",
     "picture/pop.PNG",
     "importance for final exam/Network protocols.md",
