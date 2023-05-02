@@ -28,4 +28,5 @@ incredibly important internet function
 - provide sercurity 
 ICANN (internet corporation for assgined names and numbers) manages root DNS domain 
 ## top level domain 
-responsible for .com , .org , .net ,e
+responsible for .com , .org , .net ,.edu and all top-level country domain , eg : .cn , .uk 
+network solution : authoritative registry for .com , .net tld 
