@@ -34,8 +34,15 @@ example
 - user agent the computer and devices that you used to send email 
 - mail server equivaline to http server 
 - simple mail transfer protocol : SMTP 
-user agent is what your computer used to composed sent email 
+user agent is what your computer used to composed sent email interface to create email 
 ## mail server 
-is
+is like a mail box contains incoming messages for user 
+- message queue of out going (to be sent) mail messages 
+SMTP  protocol between mail servers to send email messages 
+
+
+
+
+
 
  
