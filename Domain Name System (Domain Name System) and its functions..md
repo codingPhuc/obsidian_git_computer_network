@@ -42,3 +42,5 @@ it like an ask and tell which person to ask next for direction
 4. then the cocal ask the umass server for the ip address of the requested website 
 5. the local server will then respond 
 ### recursive query 
+![[sdfasad.PNG]]
+in this querry the ask server will then ask the next server for the ip instead of the local server 
