@@ -146,7 +146,7 @@
               "type": "markdown",
               "state": {
                 "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -282,9 +282,12 @@
   },
   "active": "56b22236f7dc570f",
   "lastOpenFiles": [
+    "Compare characteristics between OSI, TCP/IP model.md",
+    "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+    "Compare characteristics between OSI, TCP",
+    "Operation functions and principles of the layers in the network model OSI, TCP IP, IP.md",
     "importance for final exam/Network protocols.md",
     "Concepts of end systems,end devices,hosts, network edge, network core.md",
-    "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
     "File distribution time (File Distribution) between client-server; P2P.md",
     "Email protocols Email (SMTP, POP, POP3, IMAP, HTTP).md",
     "importance for final exam/ip routing chapter 9.md",
@@ -303,7 +306,6 @@
     "picture/tcpd.PNG",
     "picture/tcp.PNG",
     "Application layer applications and corresponding protocols.md",
-    "Operation functions and principles of the layers in the network model OSI, TCP IP, IP.md",
     "picture/data.PNG",
     "picture/tdm.PNG",
     "thực hành/b) cau hinh bao mat.md",
@@ -318,7 +320,6 @@
     "Untitled 8.md",
     "Untitled 7.md",
     "lab1-Introduction/Untitled.md",
-    "thực hành/ip address config.md",
     "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf",
     "pdf/Computer Networks And The Internet A Hands-On Approach by Gerry Howser (z-lib.org).pdf",
     "pdf/Computer Networks - A Tanenbaum - 5th edition.pdf",
@@ -326,7 +327,6 @@
     "thực hành",
     "picture",
     "New folder",
-    "importance for final exam",
-    "~$Chapter_1_Introduction_v8.1.pptx"
+    "importance for final exam"
   ]
 }
