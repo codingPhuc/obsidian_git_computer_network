@@ -3,3 +3,4 @@ pure p2p architecture
 no always on server 
 arbitrary end systems directly communicate 
 peer are intermittently connected and change ip address 
+
