@@ -150,9 +150,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "32d32c3af7ca2cf1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -195,6 +205,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "b1e182244e6a5902",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -280,7 +298,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "56b22236f7dc570f",
+  "active": "32d32c3af7ca2cf1",
   "lastOpenFiles": [
     "Application layer applications and corresponding protocols.md",
     "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
