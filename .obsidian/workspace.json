@@ -155,9 +155,11 @@
             "id": "32d32c3af7ca2cf1",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.7"
+                "file": "Concepts of end systems,end devices,hosts, network edge, network core.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -236,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+                "file": "Concepts of end systems,end devices,hosts, network edge, network core.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+                "file": "Concepts of end systems,end devices,hosts, network edge, network core.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md"
+                "file": "Concepts of end systems,end devices,hosts, network edge, network core.md"
               }
             }
           }
@@ -300,17 +302,17 @@
   },
   "active": "32d32c3af7ca2cf1",
   "lastOpenFiles": [
-    "Application layer applications and corresponding protocols.md",
     "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+    "importance for final exam/ip routing chapter 9.md",
+    "importance for final exam/Network protocols.md",
+    "Application layer applications and corresponding protocols.md",
     "Compare characteristics between OSI, TCP/IP model.md",
     "picture/COMPARISION.PNG",
     "Compare characteristics between OSI, TCP",
     "Operation functions and principles of the layers in the network model OSI, TCP IP, IP.md",
-    "importance for final exam/Network protocols.md",
     "Concepts of end systems,end devices,hosts, network edge, network core.md",
     "File distribution time (File Distribution) between client-server; P2P.md",
     "Email protocols Email (SMTP, POP, POP3, IMAP, HTTP).md",
-    "importance for final exam/ip routing chapter 9.md",
     "Domain Name System (Domain Name System) and its functions..md",
     "how to learn.md",
     "importance for final exam/internet ip.md",
