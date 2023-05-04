@@ -1,5 +1,8 @@
 ## concept of end systems 
-An end system is a device that facilitates Internet communications and can be used to access the Internet directly, such as personal computers and cameras, or indirectly, through servers for data like email and web pages. The interconnected network of end systems makes up the Internet architecture, allowing global information exchange via the Internet. However, end systems can be vulnerable to viruses, creating a weak point in security, which can be addressed through security measures such as data encoding, limited access and regular data backups.
+device connected to a [computer network](https://en.wikipedia.org/wiki/Computer_network "Computer network") is sometimes referred to as an **end system** or **end station**, because it sits at the edge of the network. The [end user](https://en.wikipedia.org/wiki/End_user "End user") directly interacts with an end system that provides information or services
+device connected to a [computer network](https://en.wikipedia.org/wiki/Computer_network "Computer network") is sometimes referred to as an **end system** or **end station**, because it sits at the edge of the network. The [end user](https://en.wikipedia.org/wiki/End_user "End user") directly interacts with an end system that provides information or services
+End systems are generally connected to each other using switching devices known as [routers](https://en.wikipedia.org/wiki/Router_(computing) "Router (computing)") rather than using a single communication link
+
 ## concept of end devices
 an end device is a device that is connected to a network and participates directly in communication across that network . It can be a computer ,printer
 
