@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What is the task of each layer in the OSI, TCP IP model.md",
+                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
                 "mode": "source",
                 "source": false
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What is the task of each layer in the OSI, TCP IP model.md",
+                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What is the task of each layer in the OSI, TCP IP model.md",
+                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What is the task of each layer in the OSI, TCP IP model.md"
+                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md"
               }
             }
           }
@@ -302,14 +302,14 @@
   },
   "active": "32d32c3af7ca2cf1",
   "lastOpenFiles": [
+    "What is the task of each layer in the OSI, TCP IP model.md",
+    "Protocol data units (PDUs) at the layers of the OSI model..md",
     "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
     "Operation functions and principles of the layers in the network model OSI, TCP IP, IP.md",
-    "What is the task of each layer in the OSI, TCP IP model.md",
     "What is the data unit at each layer (eg packet, segment, frame, bits, ...).md",
     "Data encapsulation process..md",
     "Domain Name System (Domain Name System) and its functions..md",
     "File distribution time (File Distribution) between client-server; P2P.md",
-    "Protocol data units (PDUs) at the layers of the OSI model..md",
     "Compare characteristics between OSI, TCP/IP model.md",
     "picture/data_layer.PNG",
     "pdf/REVISED_CiscoCertShortcuts_OSIModel_Chart.pdf",
