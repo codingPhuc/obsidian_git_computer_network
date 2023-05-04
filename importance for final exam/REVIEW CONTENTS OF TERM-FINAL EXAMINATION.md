@@ -5,7 +5,7 @@ Chapter: Computer Networks and the Internet
 - [[Operation functions and principles of the layers in the network model OSI, TCP IP, IP]] 
 Stack;
 - Data encapsulation process.
-- Protocol data units (PDUs) at the layers of the OSI model.
+- [[Protocol data units (PDUs) at the layers of the OSI model.]]
 - Abbreviated terms
 Chapter: Application layer
 - [[Application layer applications and corresponding protocols]]

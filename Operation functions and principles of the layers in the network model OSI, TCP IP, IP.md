@@ -33,7 +33,7 @@ the error in each layer
 ##  TCP/IP Model 
 a model designed to standardies computer networking 
 ### 5 Application 
-application protocol : http , ftp smtp 
+application protocol : http , ssh 
 data : message 
 ### 4 tranport 
 application protocol : tcp , udp 
