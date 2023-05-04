@@ -34,21 +34,23 @@ the error in each layer
 a model designed to standardies computer networking 
 ### 5 Application 
 application protocol : http , ftp smtp 
+data : message 
 ### 4 tranport 
 application protocol : tcp , udp 
+data  : segment
 ### 3 network 
 application protocol : ip , routers 
+data : packet 
 ### 2 data link 
 application protocol : ethernet  switches 
+data : frame 
 ### 1 physical
 application protocol : cables , NIC(network interface card )
+data : bits 
 
 
 ![[data.PNG]]
-the application layer contain the data 
-the  tranport layter will give it a tcp or destination address 
-the network layer will then give it a ip destination address 
-the data link layer will add both a header and a trailer the header will have the source mac address the trailer will have the error checking code 
+
 
 when the data is in the appplication layer it will be call a segment 
 when the data is in the network layer it is call a packet 
