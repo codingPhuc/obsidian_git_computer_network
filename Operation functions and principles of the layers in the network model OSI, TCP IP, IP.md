@@ -34,9 +34,8 @@ the error in each layer
 ##  TCP/IP Model 
 a model designed to standardies computer networking 
 ### 5 Application 
-application protocol 
-http , ftp smtp 
-### 4tranport 
+application protocol : http , ftp smtp 
+### 4 tranport 
 tcp , udp 
 ### 3 network 
 ip , routers 
