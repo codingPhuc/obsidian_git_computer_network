@@ -5,9 +5,9 @@ The OSI (Open Systems Interconnection) model is a conceptual framework used to s
  contain cable ,network ,interface , cards , hubs 
  THE DATA IN THIS SECTION IS CALL FRAME
 2.  Data link layer: Provides reliable transfer of data frames between two adjacent nodes, responsible for error detection and correction and providing a flow control mechanism. 
-3.  Network layer: Provides routing and addressing services to enable data transfer between different networks, responsible for logical addressing, routing, and packet forwarding.
-ip address , router 
-THE DATA IN THIS SECTION ARE CALL PACKET
+- the data in t
+4.  Network layer: Provides routing and addressing services to enable data transfer between different networks, responsible for logical addressing, routing, and packet forwarding. 
+- the data unit in this layer are call packet 
     
 4.  Transport layer: Provides reliable, end-to-end data transport services, responsible for segmentation and reassembly, error detection, and flow control.
 TCP , UDP ,PORT NUMBERS 
