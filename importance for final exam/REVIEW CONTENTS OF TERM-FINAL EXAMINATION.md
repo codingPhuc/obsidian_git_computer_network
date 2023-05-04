@@ -4,7 +4,7 @@ Chapter: Computer Networks and the Internet
 - [[Concepts of end systems,end devices,hosts, network edge, network core]], ....
 - [[Operation functions and principles of the layers in the network model OSI, TCP IP, IP]] 
 Stack;
-- Data encapsulation process.
+- [[Data encapsulation process.]]
 - [[Protocol data units (PDUs) at the layers of the OSI model.]]
 - Abbreviated terms
 Chapter: Application layer
