@@ -39,7 +39,7 @@ data : message
 application protocol : tcp , udp 
 data  : segment
 ### 3 network 
-application protocol : ip , routers 
+application protocol : ip , routers ,icmp
 data : packet 
 ### 2 data link 
 application protocol : ethernet  switches 
@@ -52,12 +52,10 @@ data : bits
 ![[data.PNG]]
 
 
-when the data is in the appplication layer it will be call a segment 
-when the data is in the network layer it is call a packet 
-when the data is in the data link layer it is call a frame 
 ### in depht about the layer 
 1 physical layer 
-it is a group of application that is responsible for the generation of data and requesting connection 
+it is a group of application that is responsible for the generation of data and requesting connection
+
 2 data link 
 The packet’s network protocol type, in this case, TCP/IP, is identified by the data-link layer. Error prevention and “framing” are also provided by the data-link layer.
 3 internet layer 
