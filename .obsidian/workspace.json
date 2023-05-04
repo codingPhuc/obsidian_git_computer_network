@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data encapsulation process..md",
+                "file": "Compare characteristics between OSI, TCP/IP model.md",
                 "mode": "source",
                 "source": false
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data encapsulation process..md",
+                "file": "Compare characteristics between OSI, TCP/IP model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data encapsulation process..md",
+                "file": "Compare characteristics between OSI, TCP/IP model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data encapsulation process..md"
+                "file": "Compare characteristics between OSI, TCP/IP model.md"
               }
             }
           }
@@ -302,9 +302,9 @@
   },
   "active": "32d32c3af7ca2cf1",
   "lastOpenFiles": [
-    "picture/data_layer.PNG",
     "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
     "Data encapsulation process..md",
+    "picture/data_layer.PNG",
     "Protocol data units (PDUs) at the layers of the OSI model..md",
     "Operation functions and principles of the layers in the network model OSI, TCP IP, IP.md",
     "pdf/REVISED_CiscoCertShortcuts_OSIModel_Chart.pdf",
@@ -331,7 +331,6 @@
     "picture/kinship.PNG",
     "picture/tcpd.PNG",
     "picture/tcp.PNG",
-    "picture/data.PNG",
     "thực hành/b) cau hinh bao mat.md",
     "thực hành/basic cisco command lab1.md",
     "lab1-Introduction/Untitled 1.md",
