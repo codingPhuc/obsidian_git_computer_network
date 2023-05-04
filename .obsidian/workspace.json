@@ -157,8 +157,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compare characteristics between OSI, TCP/IP model.md",
-                "mode": "source",
+                "file": "Domain Name System (Domain Name System) and its functions..md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compare characteristics between OSI, TCP/IP model.md",
+                "file": "Domain Name System (Domain Name System) and its functions..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compare characteristics between OSI, TCP/IP model.md",
+                "file": "Domain Name System (Domain Name System) and its functions..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compare characteristics between OSI, TCP/IP model.md"
+                "file": "Domain Name System (Domain Name System) and its functions..md"
               }
             }
           }
@@ -303,19 +303,20 @@
   "active": "32d32c3af7ca2cf1",
   "lastOpenFiles": [
     "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+    "File distribution time (File Distribution) between client-server; P2P.md",
+    "What is the data unit at each layer (eg packet, segment, frame, bits, ...).md",
+    "Protocol data units (PDUs) at the layers of the OSI model..md",
+    "Compare characteristics between OSI, TCP/IP model.md",
     "Data encapsulation process..md",
     "picture/data_layer.PNG",
-    "Protocol data units (PDUs) at the layers of the OSI model..md",
     "Operation functions and principles of the layers in the network model OSI, TCP IP, IP.md",
     "pdf/REVISED_CiscoCertShortcuts_OSIModel_Chart.pdf",
     "Concepts of end systems,end devices,hosts, network edge, network core.md",
     "importance for final exam/Network protocols.md",
     "importance for final exam/ip routing chapter 9.md",
     "Application layer applications and corresponding protocols.md",
-    "Compare characteristics between OSI, TCP/IP model.md",
     "picture/COMPARISION.PNG",
     "Compare characteristics between OSI, TCP",
-    "File distribution time (File Distribution) between client-server; P2P.md",
     "Email protocols Email (SMTP, POP, POP3, IMAP, HTTP).md",
     "Domain Name System (Domain Name System) and its functions..md",
     "how to learn.md",
