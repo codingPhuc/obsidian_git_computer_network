@@ -33,6 +33,5 @@
     SMTP , FTP , TELNET
 
 -   the data in this layer is call message
-
-
+![[data_layer.PNG]]
 
