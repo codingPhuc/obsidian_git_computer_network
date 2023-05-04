@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+                "file": "Functions, characteristics, operating principles,compare the basic differences of TCP and UDP.md",
                 "mode": "source",
                 "source": false
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+                "file": "Functions, characteristics, operating principles,compare the basic differences of TCP and UDP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+                "file": "Functions, characteristics, operating principles,compare the basic differences of TCP and UDP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md"
+                "file": "Functions, characteristics, operating principles,compare the basic differences of TCP and UDP.md"
               }
             }
           }
@@ -302,9 +302,10 @@
   },
   "active": "32d32c3af7ca2cf1",
   "lastOpenFiles": [
+    "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+    "Functions, characteristics, operating principles,compare the basic differences of TCP and UDP.md",
     "What is the task of each layer in the OSI, TCP IP model.md",
     "Protocol data units (PDUs) at the layers of the OSI model..md",
-    "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
     "Operation functions and principles of the layers in the network model OSI, TCP IP, IP.md",
     "What is the data unit at each layer (eg packet, segment, frame, bits, ...).md",
     "Data encapsulation process..md",
@@ -340,7 +341,6 @@
     "SELF TESTING.md",
     "lab1-Introduction/Computer Networks and the Internet.md",
     "lab1-Introduction/link physical media.md",
-    "lab1-Introduction/the network core.md",
     "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf",
     "pdf/Computer Networks And The Internet A Hands-On Approach by Gerry Howser (z-lib.org).pdf",
     "pdf/Computer Networks - A Tanenbaum - 5th edition.pdf",
