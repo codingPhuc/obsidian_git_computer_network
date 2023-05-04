@@ -15,7 +15,7 @@ Chapter: Application layer
 Chapter: Transport layer
 - [[Compare characteristics between OSI, TCP/IP model]]
 - [[What is the data unit at each layer (eg packet, segment, frame, bits, ...)]]
-- What is the task of each layer in the OSI, TCP IP model
+- [[What is the task of each layer in the OSI, TCP IP model]]
 - Functions, characteristics, operating principles, compare the basic differences of TCP
 and UDP?
 - Packet switching and circuit switching
