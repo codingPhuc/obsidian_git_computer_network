@@ -4,11 +4,7 @@ The OSI (Open Systems Interconnection) model is a conceptual framework used to s
 1.  Physical layer: Transmits raw bitstream over the physical medium, responsible for transmitting the data across the physical medium.
  contain cable ,network ,interface , cards , hubs 
  THE DATA IN THIS SECTION IS CALL FRAME
-    
 2.  Data link layer: Provides reliable transfer of data frames between two adjacent nodes, responsible for error detection and correction and providing a flow control mechanism. 
-Mac address , switches  
-THE DATA IN THIS SECTION IS CALL FRAME
-    
 3.  Network layer: Provides routing and addressing services to enable data transfer between different networks, responsible for logical addressing, routing, and packet forwarding.
 ip address , router 
 THE DATA IN THIS SECTION ARE CALL PACKET
@@ -36,13 +32,13 @@ a model designed to standardies computer networking
 ### 5 Application 
 application protocol : http , ftp smtp 
 ### 4 tranport 
-tcp , udp 
+application protocol : tcp , udp 
 ### 3 network 
-ip , routers 
+application protocol : ip , routers 
 ### 2 data link 
-ethernet  switches 
+application protocol : ethernet  switches 
 ### 1 physical
-cables , NIC(network interface card )
+application protocol : cables , NIC(network interface card )
 
 
 ![[data.PNG]]
