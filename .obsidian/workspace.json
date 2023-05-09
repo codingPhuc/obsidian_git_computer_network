@@ -157,8 +157,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCP,UDP packet structure (TCP,UDP segment format) length of fields in IPv6 and.md",
-                "mode": "source",
+                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCP,UDP packet structure (TCP,UDP segment format) length of fields in IPv6 and.md",
+                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TCP,UDP packet structure (TCP,UDP segment format) length of fields in IPv6 and.md",
+                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCP,UDP packet structure (TCP,UDP segment format) length of fields in IPv6 and.md"
+                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md"
               }
             }
           }
@@ -302,11 +302,11 @@
   },
   "active": "32d32c3af7ca2cf1",
   "lastOpenFiles": [
-    "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
     "TCP,UDP packet structure (TCP,UDP segment format) length of fields in IPv6 and.md",
+    "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+    "Functions, characteristics, operating principles,compare the basic differences of TCP and UDP.md",
     "TCP/UDP packet structure (TCP",
     "TCP",
-    "Functions, characteristics, operating principles,compare the basic differences of TCP and UDP.md",
     "Packet switching and circuit switching.md",
     "Port number on the machine running application services (FTP, DNS, SMTP, HTTP,.md",
     "Concepts of end systems,end devices,hosts, network edge, network core.md",

@@ -29,10 +29,7 @@ Which field in the TCP header is used to indicate the amount of data that can be
 -   The window size field in the TCP header is used to indicate the amount of data that can be sent before an acknowledgment is required. It specifies the number of bytes that the receiver can accept before sending an acknowledgment.
     
 
-Which protocol is used for connectionless data transfer?
 
--   UDP is used for connectionless data transfer. It does not establish a connection before sending data, and does not guarantee delivery or order of data packets.
-    
 
 Which field in the UDP header is used to ensure data integrity?
 

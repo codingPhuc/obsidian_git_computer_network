@@ -41,3 +41,7 @@ Which protocol is used for real-time applications such as video and audio stream
 -   UDP is typically used for real-time applications such as video and audio streaming because it has lower overhead and faster transmission speed, which is more suitable for real-time data transfer where speed is more important than reliability.
     
 
+Which protocol is used for connectionless data transfer?
+
+-   UDP is used for connectionless data transfer. It does not establish a connection before sending data, and does not guarantee delivery or order of data packets.
+    
