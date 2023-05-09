@@ -17,7 +17,7 @@ Chapter: Transport layer
 - [[What is the data unit at each layer (eg packet, segment, frame, bits, ...)]]
 - [[What is the task of each layer in the OSI, TCP IP model]]
 -  [[Functions, characteristics, operating principles,compare the basic differences of TCP and UDP ]]
-- Packet switching and circuit switching
+- [[Packet switching and circuit switching]]
 - Port number on the machine running application services (FTP, DNS, SMTP, HTTP,
 ....)
 - TCP/UDP packet structure (TCP/UDP segment format): length of fields in IPv6 and
