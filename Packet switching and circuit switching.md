@@ -1,1 +1,5 @@
 video : https://www.youtube.com/watch?v=j85O69Utlz8
+#sumarization  
+Circuit switching and packet switching are the two different methods of switching that are used to connect multiple communicating devices with one another. The key difference between circuit switching and packet switching is that packet switching is connectionless, whereas circuit switching is connection-oriented.
+## packet switching 
+Packet switching is defined as the connectionless network where the messages are divided and grouped together and this is known as a packet. Each packet is routed from the source to the destination as individual packets. The actual data in these packets are carried by the payload. When the packet arrives at the destination, it is the responsibility of the destination to put these packets in the right order
