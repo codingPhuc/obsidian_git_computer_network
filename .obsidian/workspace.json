@@ -157,8 +157,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Port number on the machine running application services (FTP, DNS, SMTP, HTTP,.md",
-                "mode": "source",
+                "file": "Functions, characteristics, operating principles,compare the basic differences of TCP and UDP.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Port number on the machine running application services (FTP, DNS, SMTP, HTTP,.md",
+                "file": "Functions, characteristics, operating principles,compare the basic differences of TCP and UDP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Port number on the machine running application services (FTP, DNS, SMTP, HTTP,.md",
+                "file": "Functions, characteristics, operating principles,compare the basic differences of TCP and UDP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Port number on the machine running application services (FTP, DNS, SMTP, HTTP,.md"
+                "file": "Functions, characteristics, operating principles,compare the basic differences of TCP and UDP.md"
               }
             }
           }
@@ -303,8 +303,8 @@
   "active": "32d32c3af7ca2cf1",
   "lastOpenFiles": [
     "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
-    "Port number on the machine running application services (FTP, DNS, SMTP, HTTP,.md",
     "Packet switching and circuit switching.md",
+    "Port number on the machine running application services (FTP, DNS, SMTP, HTTP,.md",
     "Concepts of end systems,end devices,hosts, network edge, network core.md",
     "Functions, characteristics, operating principles,compare the basic differences of TCP and UDP.md",
     "What is the data unit at each layer (eg packet, segment, frame, bits, ...).md",

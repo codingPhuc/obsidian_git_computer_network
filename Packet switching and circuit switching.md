@@ -1,4 +1,5 @@
 video : https://www.youtube.com/watch?v=j85O69Utlz8
+source :https://byjus.com/physics/difference-between-circuit-switching-and-packet-switching/
 #sumarization  
 Circuit switching and packet switching are the two different methods of switching that are used to connect multiple communicating devices with one another. The key difference between circuit switching and packet switching is that packet switching is connectionless, whereas circuit switching is connection-oriented.
 ## packet switching 
