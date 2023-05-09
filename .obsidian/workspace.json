@@ -158,7 +158,7 @@
               "type": "markdown",
               "state": {
                 "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -302,10 +302,11 @@
   },
   "active": "32d32c3af7ca2cf1",
   "lastOpenFiles": [
+    "TCP,UDP packet structure (TCP,UDP segment format) length of fields in IPv6 and.md",
+    "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
     "TCP/UDP packet structure (TCP",
     "TCP",
     "Functions, characteristics, operating principles,compare the basic differences of TCP and UDP.md",
-    "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
     "Packet switching and circuit switching.md",
     "Port number on the machine running application services (FTP, DNS, SMTP, HTTP,.md",
     "Concepts of end systems,end devices,hosts, network edge, network core.md",
@@ -346,7 +347,6 @@
     "pdf/Computer Networks And The Internet A Hands-On Approach by Gerry Howser (z-lib.org).pdf",
     "pdf/Computer Networks - A Tanenbaum - 5th edition.pdf",
     "rename",
-    "thực hành",
-    "picture"
+    "thực hành"
   ]
 }
