@@ -3,6 +3,7 @@ video : https://www.youtube.com/watch?v=j85O69Utlz8
 Circuit switching and packet switching are the two different methods of switching that are used to connect multiple communicating devices with one another. The key difference between circuit switching and packet switching is that packet switching is connectionless, whereas circuit switching is connection-oriented.
 ## packet switching 
 Packet switching is defined as the connectionless network where the messages are divided and grouped together and this is known as a packet. Each packet is routed from the source to the destination as individual packets. The actual data in these packets are carried by the payload. When the packet arrives at the destination, it is the responsibility of the destination to put these packets in the right order
+
 ### Advantages
 
 -   There is no delay in the delivery of the packets as they are sent to the destination as soon as they are available.
@@ -19,6 +20,10 @@ Packet switching is defined as the connectionless network where the messages are
 -   Connectivity issues may lead to loss of information and delay in the delivery of the information.
 ## circuit Switching 
 Circuit switching is defined as the method of switching which is used for establishing a dedicated [communication path](https://byjus.com/jee/communication-systems/) between the sender and the receiver. The link which is established between the sender and the receiver is in the physical form. An analog telephone network is a well-known example of circuit switching. [Bandwidth](https://byjus.com/physics/what-is-bandwidth-of-a-signal-how-is-bandwidth-measured/) is fixed in this type of switching.
+## what is circuit Switching used for 
+- continuous connections , long-distance calling on a landline 
+- dial-up network connections , connectiong to the internet via dial-up 
+- optical circuit switching , used to scale data centers and meet growing bandwidth requirement 
 ### Advantages 
 
 -   The bandwidth used is fixed.
