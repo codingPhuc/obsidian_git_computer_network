@@ -40,3 +40,8 @@ Circuit switching is defined as the method of switching which is used for establ
 -   The time taken by the two stations for the establishment of the physical link is too long.
 -   Circuit switching is expensive because every connection uses a dedicated path establishment.
 -   The link between the sender and the receiver will be maintained until and unless the user terminates the link. This will also continue if there is no transfer of data taking place.
+## packet switching uses 
+- Internet 
+- Lans 
+- Wans 
+- VoIP 
