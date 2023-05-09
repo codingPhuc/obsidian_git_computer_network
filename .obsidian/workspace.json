@@ -157,8 +157,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Functions, characteristics, operating principles,compare the basic differences of TCP and UDP.md",
-                "mode": "preview",
+                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functions, characteristics, operating principles,compare the basic differences of TCP and UDP.md",
+                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functions, characteristics, operating principles,compare the basic differences of TCP and UDP.md",
+                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Functions, characteristics, operating principles,compare the basic differences of TCP and UDP.md"
+                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md"
               }
             }
           }
@@ -302,11 +302,13 @@
   },
   "active": "32d32c3af7ca2cf1",
   "lastOpenFiles": [
+    "TCP/UDP packet structure (TCP",
+    "TCP",
+    "Functions, characteristics, operating principles,compare the basic differences of TCP and UDP.md",
     "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
     "Packet switching and circuit switching.md",
     "Port number on the machine running application services (FTP, DNS, SMTP, HTTP,.md",
     "Concepts of end systems,end devices,hosts, network edge, network core.md",
-    "Functions, characteristics, operating principles,compare the basic differences of TCP and UDP.md",
     "What is the data unit at each layer (eg packet, segment, frame, bits, ...).md",
     "Compare characteristics between OSI, TCP/IP model.md",
     "What is the task of each layer in the OSI, TCP IP model.md",
@@ -340,13 +342,11 @@
     "thực hành/basic cisco command lab1.md",
     "lab1-Introduction/Untitled 1.md",
     "lab1-Introduction/network edge.md",
-    "SELF TESTING.md",
     "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf",
     "pdf/Computer Networks And The Internet A Hands-On Approach by Gerry Howser (z-lib.org).pdf",
     "pdf/Computer Networks - A Tanenbaum - 5th edition.pdf",
     "rename",
     "thực hành",
-    "picture",
-    "New folder"
+    "picture"
   ]
 }

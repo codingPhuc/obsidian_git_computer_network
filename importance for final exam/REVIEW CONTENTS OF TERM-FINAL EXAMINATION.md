@@ -20,7 +20,7 @@ Chapter: Transport layer
 - [[Packet switching and circuit switching]]
 - [[Port number on the machine running application services (FTP, DNS, SMTP, HTTP,]]
 ....)
-- TCP/UDP packet structure (TCP/UDP segment format): length of fields in IPv6 and
+- [[TCP,UDP packet structure (TCP,UDP segment format) length of fields in IPv6 and]]
 IPv4 packet structure (eg: Source port #, Destination port #, length, checksum, header, ...)
 
 Chapter: The Network Layer: Data Plane and Control Plane
