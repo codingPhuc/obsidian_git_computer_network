@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Packet switching and circuit switching.md",
+                "file": "Concepts of end systems,end devices,hosts, network edge, network core.md",
                 "mode": "source",
                 "source": false
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Packet switching and circuit switching.md",
+                "file": "Concepts of end systems,end devices,hosts, network edge, network core.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Packet switching and circuit switching.md",
+                "file": "Concepts of end systems,end devices,hosts, network edge, network core.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Packet switching and circuit switching.md"
+                "file": "Concepts of end systems,end devices,hosts, network edge, network core.md"
               }
             }
           }
@@ -303,6 +303,7 @@
   "active": "32d32c3af7ca2cf1",
   "lastOpenFiles": [
     "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+    "Packet switching and circuit switching.md",
     "Concepts of end systems,end devices,hosts, network edge, network core.md",
     "importance for final exam/Network protocols.md",
     "Compare characteristics between OSI, TCP/IP model.md",
@@ -316,7 +317,6 @@
     "Functions, characteristics, operating principles,compare the basic differences of TCP and UDP.md",
     "TCP/UDP packet structure (TCP",
     "TCP",
-    "Packet switching and circuit switching.md",
     "What is the data unit at each layer (eg packet, segment, frame, bits, ...).md",
     "What is the task of each layer in the OSI, TCP IP model.md",
     "Protocol data units (PDUs) at the layers of the OSI model..md",
