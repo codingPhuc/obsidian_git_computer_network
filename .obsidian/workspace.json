@@ -302,8 +302,9 @@
   },
   "active": "32d32c3af7ca2cf1",
   "lastOpenFiles": [
-    "Protocol data units (PDUs) at the layers of the OSI model..md",
+    "Email protocols Email (SMTP, POP, POP3, IMAP, HTTP).md",
     "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+    "Protocol data units (PDUs) at the layers of the OSI model..md",
     "Data encapsulation process..md",
     "Concepts of end systems,end devices,hosts, network edge, network core.md",
     "Packet switching and circuit switching.md",
@@ -313,7 +314,6 @@
     "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf",
     "pdf/Computer Networks - A Tanenbaum - 5th edition.pdf",
     "Port number on the machine running application services (FTP, DNS, SMTP, HTTP,.md",
-    "Email protocols Email (SMTP, POP, POP3, IMAP, HTTP).md",
     "IPv4 packet structure.md",
     "TCP,UDP packet structure (TCP,UDP segment format) length of fields in IPv6 and.md",
     "Functions, characteristics, operating principles,compare the basic differences of TCP and UDP.md",

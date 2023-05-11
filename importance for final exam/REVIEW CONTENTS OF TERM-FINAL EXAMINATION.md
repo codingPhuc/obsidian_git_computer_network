@@ -54,11 +54,6 @@ use crossover cable?
 
 
 
-
-
-
-
-
 Chapter: Security in Computer Networks
 - Functions of Firewall.
 - Types of Firewalls
