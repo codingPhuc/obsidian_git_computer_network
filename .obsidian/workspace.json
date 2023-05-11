@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts of end systems,end devices,hosts, network edge, network core.md",
+                "file": "Packet switching and circuit switching.md",
                 "mode": "source",
                 "source": false
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts of end systems,end devices,hosts, network edge, network core.md",
+                "file": "Packet switching and circuit switching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts of end systems,end devices,hosts, network edge, network core.md",
+                "file": "Packet switching and circuit switching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts of end systems,end devices,hosts, network edge, network core.md"
+                "file": "Packet switching and circuit switching.md"
               }
             }
           }
@@ -303,12 +303,12 @@
   "active": "32d32c3af7ca2cf1",
   "lastOpenFiles": [
     "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+    "Concepts of end systems,end devices,hosts, network edge, network core.md",
     "importance for final exam/Network protocols.md",
     "Compare characteristics between OSI, TCP/IP model.md",
     "importance for final exam/ip routing chapter 9.md",
     "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf",
     "pdf/Computer Networks - A Tanenbaum - 5th edition.pdf",
-    "Concepts of end systems,end devices,hosts, network edge, network core.md",
     "Port number on the machine running application services (FTP, DNS, SMTP, HTTP,.md",
     "Email protocols Email (SMTP, POP, POP3, IMAP, HTTP).md",
     "IPv4 packet structure.md",

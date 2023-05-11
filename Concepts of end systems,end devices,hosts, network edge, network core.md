@@ -49,19 +49,3 @@ packet trenasmission delay : takes L/R secodnd to transmit (push out) L-bit pack
 store and forward : entire packet must arrive at route before it can be transmitted on next link 
 disadvantage of paket switching if the arrival rate of a packet exede the forwarding speed packet that arrive later will be force to queue and wait for the other packet to finish if the buffer of the router is full than the packet will be lost
 
-## circus switching : 
-mean that when a packet is send form one souce to the destination it will first be allocated the require link circus 
-![[ciscus switch.PNG]]
-as we can se the each path connected to each router  have 4 link and each link have 4 circus , the path from the first computer to the second is tranmisted to the second circus   in the first link then the 1 circus in the second link 
-this will prevent packet loses , dedicated recourse no sharing ciscus link
-the downside is it will make the circus unsable if to the other conputer if the computer is not dedicated to circus
-
-### there are two way that circus switching 
-FDM Frequency division multiplexing 
-![[fdm.PNG]]
-4 different circus will be assgin 4 different user for each circus  
-TDM  Time division Multiplexing 
-![[tdm.PNG]]
-a single circus will tranmist each packet at different time frame 
-
-
