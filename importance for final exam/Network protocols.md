@@ -28,7 +28,13 @@ between computer and servers over a network
 you can also used your computer as a server 
 
 IF someone in  the world want to share their file they can send file into the ftp servers , then people that want to download that file will download the file 
-## 
+### FTP COMMON USES 
+- TRANFERING FILES BETWEEN COMPUTER 
+- GIVES THE ABILITY OF WEBSITE designers to upload files to their web servers 
+### drawback 
+- not a secure protocol 
+- data being transferred is not encrypted 
+- 
 somethime ftp can be anonymous or they need you to have acount 
 give the ability of website designner to upload to the server 
 data is send in clear text so it is not very secure 
