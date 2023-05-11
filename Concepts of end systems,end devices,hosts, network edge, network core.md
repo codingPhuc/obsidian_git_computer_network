@@ -27,6 +27,10 @@ host have their unique ip address on a TCP or IP network
 mesh of interconnected router 
 packet-switching : host break application layer messages into packets 
 - network forwards packet from one router to the next , across links on path from source to destination 
+### network core function 
+- hige speed swirching and routing 
+- gateway to other networks 
+- reliability and fault tole
 ### two key function 
 forwading is a local action :
 moving arriving packet form router input link 
