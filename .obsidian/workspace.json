@@ -155,9 +155,11 @@
             "id": "32d32c3af7ca2cf1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf"
+                "file": "Concepts of end systems,end devices,hosts, network edge, network core.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -236,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf",
+                "file": "Concepts of end systems,end devices,hosts, network edge, network core.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf",
+                "file": "Concepts of end systems,end devices,hosts, network edge, network core.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf"
+                "file": "Concepts of end systems,end devices,hosts, network edge, network core.md"
               }
             }
           }
@@ -300,11 +302,13 @@
   },
   "active": "32d32c3af7ca2cf1",
   "lastOpenFiles": [
-    "pdf/Computer Networks - A Tanenbaum - 5th edition.pdf",
-    "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf",
-    "Concepts of end systems,end devices,hosts, network edge, network core.md",
     "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
     "importance for final exam/Network protocols.md",
+    "Compare characteristics between OSI, TCP/IP model.md",
+    "importance for final exam/ip routing chapter 9.md",
+    "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf",
+    "pdf/Computer Networks - A Tanenbaum - 5th edition.pdf",
+    "Concepts of end systems,end devices,hosts, network edge, network core.md",
     "Port number on the machine running application services (FTP, DNS, SMTP, HTTP,.md",
     "Email protocols Email (SMTP, POP, POP3, IMAP, HTTP).md",
     "IPv4 packet structure.md",
@@ -314,7 +318,6 @@
     "TCP",
     "Packet switching and circuit switching.md",
     "What is the data unit at each layer (eg packet, segment, frame, bits, ...).md",
-    "Compare characteristics between OSI, TCP/IP model.md",
     "What is the task of each layer in the OSI, TCP IP model.md",
     "Protocol data units (PDUs) at the layers of the OSI model..md",
     "Operation functions and principles of the layers in the network model OSI, TCP IP, IP.md",
@@ -323,7 +326,6 @@
     "File distribution time (File Distribution) between client-server; P2P.md",
     "picture/data_layer.PNG",
     "pdf/REVISED_CiscoCertShortcuts_OSIModel_Chart.pdf",
-    "importance for final exam/ip routing chapter 9.md",
     "Application layer applications and corresponding protocols.md",
     "picture/COMPARISION.PNG",
     "Compare characteristics between OSI, TCP",
