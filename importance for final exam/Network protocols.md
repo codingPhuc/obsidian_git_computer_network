@@ -36,16 +36,8 @@ very simple transfer protocol
 not used to transfer files over the internet 
 mainly used for network protocol is a connecttionless protocol 
 does not provide any security over tranfer 
-# Tcp (tranmission control protocol)
-connection oriented protocol mean that the two computer vertify connection before the sending 
-it do this by a three way hand sack 
-![[three.PNG]]
-TCP guarantees the delivery of the data 
-mean that when a data packet goes astray or does not deliver it will not send it 
-## udp 
-is a connectionless sending 
-udp is consider a fire and forget protocol 
-udp is consider much faster then tcp 
+
+## IP PROTOCOL 
 
 
 
