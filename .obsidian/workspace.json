@@ -158,7 +158,7 @@
               "type": "markdown",
               "state": {
                 "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -302,13 +302,14 @@
   },
   "active": "32d32c3af7ca2cf1",
   "lastOpenFiles": [
-    "Email protocols Email (SMTP, POP, POP3, IMAP, HTTP).md",
+    "Concepts of end systems,end devices,hosts, network edge, network core.md",
     "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+    "importance for final exam/Network protocols.md",
+    "Roles, functions, operating principles of the Router.md",
+    "Email protocols Email (SMTP, POP, POP3, IMAP, HTTP).md",
     "Protocol data units (PDUs) at the layers of the OSI model..md",
     "Data encapsulation process..md",
-    "Concepts of end systems,end devices,hosts, network edge, network core.md",
     "Packet switching and circuit switching.md",
-    "importance for final exam/Network protocols.md",
     "Compare characteristics between OSI, TCP/IP model.md",
     "importance for final exam/ip routing chapter 9.md",
     "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf",

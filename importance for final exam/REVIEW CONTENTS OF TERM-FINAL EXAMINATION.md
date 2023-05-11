@@ -24,7 +24,7 @@ Chapter: Transport layer
 [[IPv4 packet structure]] (eg: Source port #, Destination port #, length, checksum, header, ...)
 
 Chapter: The Network Layer: Data Plane and Control Plane
-- Roles, functions, operating principles of the Router?
+- [[Roles, functions, operating principles of the Router]]?
 - Compare the difference between Ipv4 vs Ipv6 (eg: how many bits is IPv4, IPv6?, .....)
 - Characteristics, how to identify IPv4 class A, B, C, D
 - Private IPv4 address, Public IPv4?
