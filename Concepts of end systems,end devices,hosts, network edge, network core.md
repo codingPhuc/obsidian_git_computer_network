@@ -16,10 +16,6 @@ End network devices, also known as end-user devices or endpoints, are devices th
 6. Teleconferencing equipment  
 7. Gaming consoles and media streaming devices
 
-End network devices connect to the network infrastructure through wired or wireless connections, such as Ethernet, Wi-Fi, or cellular networks. They interact with other devices and network resources, like switches, routers, and servers, to send and receive data, access services, and perform various tasks; ensuring the security and proper functioning of end network devices are crucial to maintain the overall performance and security of a network.
-### the different between end system and end devices 
-- end systems are generally connected to each oter using switching devices known as routers rather than using a  single communication link .
-- end systems is able to connect to the internet while end devices only referee to devices that communicate in a network
 ### host concept computer network 
 in computer network a host refers to a computer that can interated with other host in a network , host can be servers responsible for [for transmitting and receiving data, services, and applications](https://linuxsimply.com/what-is-host-in-computer-network/)
 host have their unique ip address on a TCP or IP network 
