@@ -18,4 +18,5 @@ souce : https://www.youtube.com/watch?v=ThdO9beHhpA&t=399s
 	- 76DC:4F59:34CF:71CDj:9DC6:89CD:45D:67A2 
 - capable of producing over 340 undecillion address 
 - each hexidecimal charecter represent 4 bit 
-!
+![[picture.PNG]]
+## ip 
