@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Email protocols Email (SMTP, POP, POP3, IMAP, HTTP).md",
+                "file": "importance for final exam/Network protocols.md",
                 "mode": "preview",
                 "source": false
               }
@@ -222,7 +222,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.50418853759766
   },
   "right": {
     "id": "4654ea9bd6ed5c90",
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Email protocols Email (SMTP, POP, POP3, IMAP, HTTP).md",
+                "file": "importance for final exam/Network protocols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Email protocols Email (SMTP, POP, POP3, IMAP, HTTP).md",
+                "file": "importance for final exam/Network protocols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Email protocols Email (SMTP, POP, POP3, IMAP, HTTP).md"
+                "file": "importance for final exam/Network protocols.md"
               }
             }
           }
@@ -303,13 +303,14 @@
   "active": "32d32c3af7ca2cf1",
   "lastOpenFiles": [
     "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+    "Port number on the machine running application services (FTP, DNS, SMTP, HTTP,.md",
+    "Email protocols Email (SMTP, POP, POP3, IMAP, HTTP).md",
     "IPv4 packet structure.md",
     "TCP,UDP packet structure (TCP,UDP segment format) length of fields in IPv6 and.md",
     "Functions, characteristics, operating principles,compare the basic differences of TCP and UDP.md",
     "TCP/UDP packet structure (TCP",
     "TCP",
     "Packet switching and circuit switching.md",
-    "Port number on the machine running application services (FTP, DNS, SMTP, HTTP,.md",
     "Concepts of end systems,end devices,hosts, network edge, network core.md",
     "What is the data unit at each layer (eg packet, segment, frame, bits, ...).md",
     "Compare characteristics between OSI, TCP/IP model.md",
@@ -326,7 +327,6 @@
     "Application layer applications and corresponding protocols.md",
     "picture/COMPARISION.PNG",
     "Compare characteristics between OSI, TCP",
-    "Email protocols Email (SMTP, POP, POP3, IMAP, HTTP).md",
     "how to learn.md",
     "importance for final exam/internet ip.md",
     "picture/sdfasad.PNG",
