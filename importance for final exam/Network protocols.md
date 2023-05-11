@@ -33,16 +33,7 @@ IF someone in  the world want to share their file they can send file into the ft
 - GIVES THE ABILITY OF WEBSITE designers to upload files to their web servers 
 ### drawback 
 - not a secure protocol 
-- data being transferred is not encrypted 
-- 
-somethime ftp can be anonymous or they need you to have acount 
-give the ability of website designner to upload to the server 
-data is send in clear text so it is not very secure 
-tftp : 
-very simple transfer protocol 
-not used to transfer files over the internet 
-mainly used for network protocol is a connecttionless protocol 
-does not provide any security over tranfer 
+- data being transferred is not encrypted g
 
 ## IP PROTOCOL 
 The Internet Protocol (IP) is a [protocol](https://www.cloudflare.com/learning/network-layer/what-is-a-protocol/), or set of rules, for routing and addressing [packets](https://www.cloudflare.com/learning/network-layer/what-is-a-packet/) of data so that they can travel across networks and arrive at the correct destination. Data traversing the Internet is divided into smaller pieces, called packets. IP information is attached to each packet, and this information helps [routers](https://www.cloudflare.com/learning/network-layer/what-is-a-router/) to send packets to the right place. Every device or [domain](https://www.cloudflare.com/learning/dns/glossary/what-is-a-domain-name/) that connects to the Internet is assigned an [IP address](https://www.cloudflare.com/learning/dns/glossary/what-is-my-ip-address/), and as packets are directed to the IP address attached to them, data arrives where it is needed.
