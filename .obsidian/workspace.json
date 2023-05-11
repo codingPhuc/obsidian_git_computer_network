@@ -193,7 +193,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#sumarization",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
