@@ -19,4 +19,6 @@ souce : https://www.youtube.com/watch?v=ThdO9beHhpA&t=399s
 - capable of producing over 340 undecillion address 
 - each hexidecimal charecter represent 4 bit 
 ![[picture.PNG]]
-## ip 
+### ipv6 addressing format 
+#### rule 1 
+the first rule to help reduce the notation of ipv6 addresses is t

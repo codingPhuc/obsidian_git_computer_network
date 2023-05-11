@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thực hành/what is a subnet mask.md",
+                "file": "Compare the difference between Ipv4 vs Ipv6.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,54 +86,6 @@
               "type": "markdown",
               "state": {
                 "file": "lab1-Introduction/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc7432ba4304e1a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 7.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e1db015f0d91ea1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 8.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05b37a5e1d0cc0d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2031a38bef28ca1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lab1-Introduction/network edge.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -300,11 +252,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "32d32c3af7ca2cf1",
+  "active": "3cd4ccb25e4defc7",
   "lastOpenFiles": [
-    "picture/picture.PNG",
     "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
     "Compare the difference between Ipv4 vs Ipv6.md",
+    "thực hành/what is a subnet mask.md",
+    "lab1-Introduction/Untitled.md",
+    "Untitled 7.md",
+    "Untitled 8.md",
+    "picture/picture.PNG",
     "Concepts of end systems,end devices,hosts, network edge, network core.md",
     "importance for final exam/Network protocols.md",
     "Roles, functions, operating principles of the Router.md",
@@ -333,18 +289,14 @@
     "picture/COMPARISION.PNG",
     "Compare characteristics between OSI, TCP",
     "how to learn.md",
-    "importance for final exam/internet ip.md",
     "picture/sdfasad.PNG",
     "picture/dns server name.PNG",
     "picture/root.PNG",
-    "conflict-files-obsidian-git.md",
     "~syncthing~conflict-files-obsidian-git.md.tmp",
-    "lab1-Introduction/what the internet nut and bolt view.md",
     "picture/pop.PNG",
     "picture/smtp.PNG",
     "picture/kinship.PNG",
     "picture/tcpd.PNG",
-    "picture/tcp.PNG",
     "pdf/Computer Networks And The Internet A Hands-On Approach by Gerry Howser (z-lib.org).pdf",
     "rename",
     "thực hành"
