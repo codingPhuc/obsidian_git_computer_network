@@ -11,4 +11,10 @@ souce : https://www.youtube.com/watch?v=ThdO9beHhpA&t=399s
 	 - 66.94.29.13 
 	 - 01000010.01011110.00011101.00001101 
  - binary numbers only use 1's and 0's 
- 
+## ipv6 
+- ipv6 is the next generation of ip addresses 
+- 128-bit hexadeciaml address 
+- hexadecimal uses both numbers and alphabets 
+	- 76DC:4F59:34CF:71CDj:9DC6:89CD:45D:67A2 
+- capable of producing over 340 undecillion address 
+- 
