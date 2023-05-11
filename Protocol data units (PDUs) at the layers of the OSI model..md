@@ -1,35 +1,60 @@
-1.  Physical layer: Transmits raw bitstream over the physical medium, responsible for transmitting the data across the physical medium.
 
--   the data in this layer are call BITS  
+source :https://www.youtube.com/watch?v=E0S19bRzr6g
 
-2.  Data link layer: Provides reliable transfer of data frames between two adjacent nodes, responsible for error detection and correction and providing a flow control mechanism.
 
--   the data in this layer is call frame
+Layer 1
 
-4.  Network layer: Provides routing and addressing services to enable data transfer between different networks, responsible for logical addressing, routing, and packet forwarding.
+Physical Layer
 
--   the data unit in this layer are call packet
+In this layer, PDU is **bits** (1s or 0s) for the transmission of data on the network.
 
-4.  Transport layer: Provides reliable, end-to-end data transport services, responsible for segmentation and reassembly, error detection, and flow control.
+Layer 2
 
--   the data in this layer are call segment  
-    TCP , UDP ,PORT NUMBERS  
-    THE DATA IN THIS SECTION ARE CALL SEGMENT  
-    
+Data Link Layer
 
-5.  Session layer: Establishes and manages sessions between applications, responsible for establishing, managing and terminating connections.
+In this layer, PDU comprises- 
 
--   the data in this layer is call message  
-    START AND STOP SESSIIONS  
-    
+-   Original data with TCP/UDP header
+-   Network layer header and 
+-   Data Link Layer header contains MAC (Medium Access Control) addresses or physical addresses of sender and receiver. The trailer is also added to this layer.
 
-6.  Presentation layer: Formats and presents data to the application layer, responsible for data compression, encryption, and decryption.  
-    FORMAT DATA, ENCRYPTION
+PDU is called a **frame** in the Data Link Layer.
 
--   the data in this layer is call message  
-    
+Layer 3
 
-7.  Application layer: Provides services directly to the user, responsible for providing access to network resources and user interfaces.  
-    SMTP , FTP , TELNET
+Network Layer 
 
--   the data in this layer is call message
+In this layer, PDU comprises- 
+
+-   Data with TCP/UDP headers
+-   The network layer header contains Logical Addresses or IP Addresses of the sender and receiver.
+
+PDU is called a **packet** in Network Layer.
+
+Layer 4
+
+ Transport Layer
+
+In this layer, PDU comprises- 
+
+-   Data with TCP/UDP headers having sender’s and receiver’s TCP/UDP port numbers.
+
+PDU is called **segment or datagram** in Transport Layer depending upon the protocol used. For TCP (connection-oriented protocol), it is segmented and for UDP (connectionless protocol) it is a datagram.
+
+Layer 5
+
+Session Layer
+
+In this layer, PDU is data.
+
+Layer 6
+
+Presentation Layer
+
+In this layer, PDU is data.
+
+Layer 7
+
+Application Layer
+
+In this layer, PDU contains original data made from a network application.
