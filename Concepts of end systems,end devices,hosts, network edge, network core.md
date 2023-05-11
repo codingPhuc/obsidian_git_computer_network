@@ -30,7 +30,12 @@ packet-switching : host break application layer messages into packets
 ### network core function 
 - hige speed swirching and routing 
 - gateway to other networks 
-- reliability and fault tole
+- reliability and fault tolerance 
+### what is in the network core 
+- cabling,
+- routers,
+- switches, 
+- and hubs.
 ### two key function 
 forwading is a local action :
 moving arriving packet form router input link 
