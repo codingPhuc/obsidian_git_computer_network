@@ -155,11 +155,9 @@
             "id": "32d32c3af7ca2cf1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "importance for final exam/Network protocols.md",
-                "mode": "source",
-                "source": false
+                "file": "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf"
               }
             }
           }
@@ -238,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "importance for final exam/Network protocols.md",
+                "file": "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "importance for final exam/Network protocols.md",
+                "file": "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "importance for final exam/Network protocols.md"
+                "file": "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf"
               }
             }
           }
@@ -302,9 +300,12 @@
   },
   "active": "32d32c3af7ca2cf1",
   "lastOpenFiles": [
+    "pdf/Computer Networks - A Tanenbaum - 5th edition.pdf",
+    "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf",
+    "Concepts of end systems,end devices,hosts, network edge, network core.md",
     "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
-    "Port number on the machine running application services (FTP, DNS, SMTP, HTTP,.md",
     "importance for final exam/Network protocols.md",
+    "Port number on the machine running application services (FTP, DNS, SMTP, HTTP,.md",
     "Email protocols Email (SMTP, POP, POP3, IMAP, HTTP).md",
     "IPv4 packet structure.md",
     "TCP,UDP packet structure (TCP,UDP segment format) length of fields in IPv6 and.md",
@@ -312,7 +313,6 @@
     "TCP/UDP packet structure (TCP",
     "TCP",
     "Packet switching and circuit switching.md",
-    "Concepts of end systems,end devices,hosts, network edge, network core.md",
     "What is the data unit at each layer (eg packet, segment, frame, bits, ...).md",
     "Compare characteristics between OSI, TCP/IP model.md",
     "What is the task of each layer in the OSI, TCP IP model.md",
@@ -342,10 +342,7 @@
     "picture/tcp.PNG",
     "thực hành/b) cau hinh bao mat.md",
     "thực hành/basic cisco command lab1.md",
-    "lab1-Introduction/Untitled 1.md",
-    "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf",
     "pdf/Computer Networks And The Internet A Hands-On Approach by Gerry Howser (z-lib.org).pdf",
-    "pdf/Computer Networks - A Tanenbaum - 5th edition.pdf",
     "rename",
     "thực hành"
   ]
