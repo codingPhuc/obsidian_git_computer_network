@@ -73,8 +73,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
-                "mode": "source",
+                "file": "Operation functions and principles of the layers in the network model OSI, TCP IP, IP.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+                "file": "Operation functions and principles of the layers in the network model OSI, TCP IP, IP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+                "file": "Operation functions and principles of the layers in the network model OSI, TCP IP, IP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md"
+                "file": "Operation functions and principles of the layers in the network model OSI, TCP IP, IP.md"
               }
             }
           }
@@ -254,22 +254,22 @@
   },
   "active": "3cd4ccb25e4defc7",
   "lastOpenFiles": [
-    "What is the data unit at each layer (eg packet, segment, frame, bits, ...).md",
     "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+    "Concepts of end systems,end devices,hosts, network edge, network core.md",
+    "Compare characteristics between OSI, TCP/IP model.md",
+    "What is the data unit at each layer (eg packet, segment, frame, bits, ...).md",
     "Compare the difference between Ipv4 vs Ipv6.md",
     "thực hành/what is a subnet mask.md",
     "lab1-Introduction/Untitled.md",
     "Untitled 7.md",
     "Untitled 8.md",
     "picture/picture.PNG",
-    "Concepts of end systems,end devices,hosts, network edge, network core.md",
     "importance for final exam/Network protocols.md",
     "Roles, functions, operating principles of the Router.md",
     "Email protocols Email (SMTP, POP, POP3, IMAP, HTTP).md",
     "Protocol data units (PDUs) at the layers of the OSI model..md",
     "Data encapsulation process..md",
     "Packet switching and circuit switching.md",
-    "Compare characteristics between OSI, TCP/IP model.md",
     "importance for final exam/ip routing chapter 9.md",
     "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf",
     "pdf/Computer Networks - A Tanenbaum - 5th edition.pdf",
