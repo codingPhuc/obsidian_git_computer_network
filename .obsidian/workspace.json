@@ -8,84 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ee4996ccca2c016a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thực hành/basic cisco command lab1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71ccab9106955a58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0173236aa486f80c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thực hành/basic cisco command lab1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3cd4ccb25e4defc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roles, functions, operating principles of the Router.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8e135d9996e473f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lab1-Introduction/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56b22236f7dc570f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "32d32c3af7ca2cf1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compare the difference between Ipv4 vs Ipv6.md",
+                "file": "Protocol data units (PDUs) at the layers of the OSI model..md",
                 "mode": "source",
                 "source": false
               }
@@ -165,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thực hành/basic cisco command lab1.md",
+                "file": "Protocol data units (PDUs) at the layers of the OSI model..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thực hành/basic cisco command lab1.md",
+                "file": "Protocol data units (PDUs) at the layers of the OSI model..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thực hành/basic cisco command lab1.md"
+                "file": "Protocol data units (PDUs) at the layers of the OSI model..md"
               }
             }
           }
@@ -227,25 +155,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ee4996ccca2c016a",
+  "active": "32d32c3af7ca2cf1",
   "lastOpenFiles": [
-    "Untitled 6.md",
-    "Roles, functions, operating principles of the Router.md",
     "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+    "Data encapsulation process..md",
+    "Compare the difference between Ipv4 vs Ipv6.md",
+    "lab1-Introduction/Untitled.md",
+    "Roles, functions, operating principles of the Router.md",
+    "thực hành/basic cisco command lab1.md",
+    "Untitled 4.md",
+    "Untitled 6.md",
     "Operation functions and principles of the layers in the network model OSI, TCP IP, IP.md",
     "Concepts of end systems,end devices,hosts, network edge, network core.md",
     "Compare characteristics between OSI, TCP/IP model.md",
     "What is the data unit at each layer (eg packet, segment, frame, bits, ...).md",
-    "Compare the difference between Ipv4 vs Ipv6.md",
     "thực hành/what is a subnet mask.md",
-    "lab1-Introduction/Untitled.md",
     "Untitled 7.md",
     "Untitled 8.md",
     "picture/picture.PNG",
     "importance for final exam/Network protocols.md",
     "Email protocols Email (SMTP, POP, POP3, IMAP, HTTP).md",
     "Protocol data units (PDUs) at the layers of the OSI model..md",
-    "Data encapsulation process..md",
     "Packet switching and circuit switching.md",
     "importance for final exam/ip routing chapter 9.md",
     "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf",
@@ -258,10 +188,8 @@
     "TCP",
     "What is the task of each layer in the OSI, TCP IP model.md",
     "Domain Name System (Domain Name System) and its functions..md",
-    "File distribution time (File Distribution) between client-server; P2P.md",
     "picture/data_layer.PNG",
     "pdf/REVISED_CiscoCertShortcuts_OSIModel_Chart.pdf",
-    "Application layer applications and corresponding protocols.md",
     "picture/COMPARISION.PNG",
     "Compare characteristics between OSI, TCP",
     "picture/sdfasad.PNG",
