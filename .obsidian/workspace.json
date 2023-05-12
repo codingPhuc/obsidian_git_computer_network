@@ -44,37 +44,13 @@
             }
           },
           {
-            "id": "539ada75fa6fed2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8201041e9ea9a2a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thực hành/basic cisco command lab1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3cd4ccb25e4defc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operation functions and principles of the layers in the network model OSI, TCP IP, IP.md",
-                "mode": "preview",
+                "file": "Roles, functions, operating principles of the Router.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -115,8 +91,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operation functions and principles of the layers in the network model OSI, TCP IP, IP.md",
+                "file": "thực hành/basic cisco command lab1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operation functions and principles of the layers in the network model OSI, TCP IP, IP.md",
+                "file": "thực hành/basic cisco command lab1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operation functions and principles of the layers in the network model OSI, TCP IP, IP.md"
+                "file": "thực hành/basic cisco command lab1.md"
               }
             }
           }
@@ -252,9 +227,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3cd4ccb25e4defc7",
+  "active": "ee4996ccca2c016a",
   "lastOpenFiles": [
+    "Untitled 6.md",
+    "Roles, functions, operating principles of the Router.md",
     "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+    "Operation functions and principles of the layers in the network model OSI, TCP IP, IP.md",
     "Concepts of end systems,end devices,hosts, network edge, network core.md",
     "Compare characteristics between OSI, TCP/IP model.md",
     "What is the data unit at each layer (eg packet, segment, frame, bits, ...).md",
@@ -265,7 +243,6 @@
     "Untitled 8.md",
     "picture/picture.PNG",
     "importance for final exam/Network protocols.md",
-    "Roles, functions, operating principles of the Router.md",
     "Email protocols Email (SMTP, POP, POP3, IMAP, HTTP).md",
     "Protocol data units (PDUs) at the layers of the OSI model..md",
     "Data encapsulation process..md",
@@ -280,7 +257,6 @@
     "TCP/UDP packet structure (TCP",
     "TCP",
     "What is the task of each layer in the OSI, TCP IP model.md",
-    "Operation functions and principles of the layers in the network model OSI, TCP IP, IP.md",
     "Domain Name System (Domain Name System) and its functions..md",
     "File distribution time (File Distribution) between client-server; P2P.md",
     "picture/data_layer.PNG",
@@ -288,7 +264,6 @@
     "Application layer applications and corresponding protocols.md",
     "picture/COMPARISION.PNG",
     "Compare characteristics between OSI, TCP",
-    "how to learn.md",
     "picture/sdfasad.PNG",
     "picture/dns server name.PNG",
     "picture/root.PNG",
