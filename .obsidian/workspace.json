@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File distribution time (File Distribution) between client-server; P2P.md",
+                "file": "Email protocols Email (SMTP, POP, POP3, IMAP, HTTP).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "File distribution time (File Distribution) between client-server; P2P.md",
+                "file": "Email protocols Email (SMTP, POP, POP3, IMAP, HTTP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "File distribution time (File Distribution) between client-server; P2P.md",
+                "file": "Email protocols Email (SMTP, POP, POP3, IMAP, HTTP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "File distribution time (File Distribution) between client-server; P2P.md"
+                "file": "Email protocols Email (SMTP, POP, POP3, IMAP, HTTP).md"
               }
             }
           }
@@ -158,13 +158,14 @@
   "active": "32d32c3af7ca2cf1",
   "lastOpenFiles": [
     "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+    "importance for final exam/Network protocols.md",
+    "File distribution time (File Distribution) between client-server; P2P.md",
     "TCP,UDP packet structure (TCP,UDP segment format) length of fields in IPv6 and.md",
     "Email protocols Email (SMTP, POP, POP3, IMAP, HTTP).md",
     "The access protocols CSMA/CD, Token Ring.md",
     "The access protocols CSMA",
     "Protocol data units (PDUs) at the layers of the OSI model..md",
     "Application layer applications and corresponding protocols.md",
-    "importance for final exam/Network protocols.md",
     "Port number on the machine running application services (FTP, DNS, SMTP, HTTP,.md",
     "Data encapsulation process..md",
     "Compare the difference between Ipv4 vs Ipv6.md",
@@ -186,7 +187,6 @@
     "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf",
     "pdf/Computer Networks - A Tanenbaum - 5th edition.pdf",
     "IPv4 packet structure.md",
-    "Functions, characteristics, operating principles,compare the basic differences of TCP and UDP.md",
     "TCP/UDP packet structure (TCP",
     "TCP",
     "picture/data_layer.PNG",
