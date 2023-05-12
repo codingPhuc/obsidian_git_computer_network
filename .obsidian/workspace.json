@@ -157,8 +157,9 @@
   },
   "active": "32d32c3af7ca2cf1",
   "lastOpenFiles": [
-    "importance for final exam/Network protocols.md",
+    "Application layer applications and corresponding protocols.md",
     "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+    "importance for final exam/Network protocols.md",
     "Port number on the machine running application services (FTP, DNS, SMTP, HTTP,.md",
     "Protocol data units (PDUs) at the layers of the OSI model..md",
     "Data encapsulation process..md",
@@ -187,7 +188,6 @@
     "TCP/UDP packet structure (TCP",
     "TCP",
     "What is the task of each layer in the OSI, TCP IP model.md",
-    "Domain Name System (Domain Name System) and its functions..md",
     "picture/data_layer.PNG",
     "pdf/REVISED_CiscoCertShortcuts_OSIModel_Chart.pdf",
     "picture/COMPARISION.PNG",
