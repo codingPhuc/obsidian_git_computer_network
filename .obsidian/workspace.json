@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+                "file": "The access protocols CSMA/CD, Token Ring.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+                "file": "The access protocols CSMA/CD, Token Ring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+                "file": "The access protocols CSMA/CD, Token Ring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md"
+                "file": "The access protocols CSMA/CD, Token Ring.md"
               }
             }
           }
@@ -157,8 +157,10 @@
   },
   "active": "32d32c3af7ca2cf1",
   "lastOpenFiles": [
-    "Protocol data units (PDUs) at the layers of the OSI model..md",
     "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+    "The access protocols CSMA/CD, Token Ring.md",
+    "The access protocols CSMA",
+    "Protocol data units (PDUs) at the layers of the OSI model..md",
     "Application layer applications and corresponding protocols.md",
     "importance for final exam/Network protocols.md",
     "Port number on the machine running application services (FTP, DNS, SMTP, HTTP,.md",
@@ -187,7 +189,6 @@
     "Functions, characteristics, operating principles,compare the basic differences of TCP and UDP.md",
     "TCP/UDP packet structure (TCP",
     "TCP",
-    "What is the task of each layer in the OSI, TCP IP model.md",
     "picture/data_layer.PNG",
     "pdf/REVISED_CiscoCertShortcuts_OSIModel_Chart.pdf",
     "picture/COMPARISION.PNG",
@@ -201,7 +202,6 @@
     "picture/kinship.PNG",
     "picture/tcpd.PNG",
     "pdf/Computer Networks And The Internet A Hands-On Approach by Gerry Howser (z-lib.org).pdf",
-    "rename",
-    "thực hành"
+    "rename"
   ]
 }
