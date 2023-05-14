@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Port number on the machine running application services (FTP, DNS, SMTP, HTTP,.md",
+                "file": "how to learn.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Port number on the machine running application services (FTP, DNS, SMTP, HTTP,.md",
+                "file": "how to learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Port number on the machine running application services (FTP, DNS, SMTP, HTTP,.md",
+                "file": "how to learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Port number on the machine running application services (FTP, DNS, SMTP, HTTP,.md"
+                "file": "how to learn.md"
               }
             }
           }
@@ -157,36 +157,36 @@
   },
   "active": "32d32c3af7ca2cf1",
   "lastOpenFiles": [
-    "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
-    "Packet switching and circuit switching.md",
-    "Compare characteristics between OSI, TCP/IP model.md",
-    "importance for final exam/Network protocols.md",
-    "Email protocols Email (SMTP, POP, POP3, IMAP, HTTP).md",
-    "File distribution time (File Distribution) between client-server; P2P.md",
-    "TCP,UDP packet structure (TCP,UDP segment format) length of fields in IPv6 and.md",
-    "The access protocols CSMA/CD, Token Ring.md",
-    "The access protocols CSMA",
+    "how to slove confice ip.md",
+    "IPv4 packet structure.md",
+    "kiểu dữ liệu.md",
+    "layered internet protocol stack.md",
+    "network.md",
     "Protocol data units (PDUs) at the layers of the OSI model..md",
-    "Application layer applications and corresponding protocols.md",
-    "Port number on the machine running application services (FTP, DNS, SMTP, HTTP,.md",
-    "Data encapsulation process..md",
-    "Compare the difference between Ipv4 vs Ipv6.md",
-    "lab1-Introduction/Untitled.md",
-    "Roles, functions, operating principles of the Router.md",
-    "thực hành/basic cisco command lab1.md",
-    "Untitled 4.md",
-    "Untitled 6.md",
-    "Operation functions and principles of the layers in the network model OSI, TCP IP, IP.md",
-    "Concepts of end systems,end devices,hosts, network edge, network core.md",
-    "What is the data unit at each layer (eg packet, segment, frame, bits, ...).md",
-    "thực hành/what is a subnet mask.md",
+    "source.md",
     "Untitled 7.md",
+    "Untitled 6.md",
+    "Untitled 5.md",
+    "Untitled 4.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
     "Untitled 8.md",
+    "organization of air travel.md",
+    "Operation functions and principles of the layers in the network model OSI, TCP IP, IP.md",
+    "NOTE DOWN.md",
+    "Packet switching and circuit switching.md",
+    "Port number on the machine running application services (FTP, DNS, SMTP, HTTP,.md",
+    "protocol.md",
+    "README.md",
+    "Roles, functions, operating principles of the Router.md",
+    "router.md",
+    "SELF TESTING.md",
+    "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+    "The access protocols CSMA",
     "picture/picture.PNG",
-    "importance for final exam/ip routing chapter 9.md",
     "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf",
     "pdf/Computer Networks - A Tanenbaum - 5th edition.pdf",
-    "IPv4 packet structure.md",
     "TCP/UDP packet structure (TCP",
     "TCP",
     "picture/data_layer.PNG",
