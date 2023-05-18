@@ -11,11 +11,9 @@
             "id": "32d32c3af7ca2cf1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "lab1-Introduction/network edge.md",
-                "mode": "source",
-                "source": false
+                "file": "picture/caper.PNG"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lab1-Introduction/network edge.md",
+                "file": "picture/caper.PNG",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lab1-Introduction/network edge.md",
+                "file": "picture/caper.PNG",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lab1-Introduction/network edge.md"
+                "file": "picture/caper.PNG"
               }
             }
           }
@@ -155,8 +153,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "32d32c3af7ca2cf1",
+  "active": "d0822c1b3111e56d",
   "lastOpenFiles": [
+    "pdf/~$Chapter 7.1 - Ethernet Switching.pptx",
+    "pdf/~$Chapter 5 - IPv6 Addressing.pptx",
+    "pdf/~$Chapter 6 - Data Link Layer.pptx",
+    "pdf/REVISED_CiscoCertShortcuts_OSIModel_Chart.pdf",
+    "pdf/Computer Networks - A Tanenbaum - 5th edition.pdf",
+    "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf",
+    "pdf/Computer Networks And The Internet A Hands-On Approach by Gerry Howser (z-lib.org).pdf",
+    "lab1-Introduction/Untitled.md",
+    "lab1-Introduction/network edge.md",
+    "pdf/Chapter 9 - Transport Layer.pptx",
+    "pdf/Chapter 8.2 - ICMP.pptx",
+    "pdf/Chapter 8.1 - Network Layer.pptx",
+    "pdf/Chapter 7.2 - Address Resolution.pptx",
     "Function and working principles of ARP, RARP.md",
     "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
     "Compare characteristics between OSI, TCP/IP model.md",
@@ -180,28 +191,15 @@
     "organization of air travel.md",
     "Operation functions and principles of the layers in the network model OSI, TCP IP, IP.md",
     "NOTE DOWN.md",
-    "Packet switching and circuit switching.md",
-    "Port number on the machine running application services (FTP, DNS, SMTP, HTTP,.md",
-    "protocol.md",
-    "The access protocols CSMA",
     "picture/picture.PNG",
-    "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf",
-    "pdf/Computer Networks - A Tanenbaum - 5th edition.pdf",
-    "TCP/UDP packet structure (TCP",
-    "TCP",
     "picture/data_layer.PNG",
-    "pdf/REVISED_CiscoCertShortcuts_OSIModel_Chart.pdf",
     "picture/COMPARISION.PNG",
-    "Compare characteristics between OSI, TCP",
     "picture/sdfasad.PNG",
     "picture/dns server name.PNG",
     "picture/root.PNG",
-    "~syncthing~conflict-files-obsidian-git.md.tmp",
     "picture/pop.PNG",
     "picture/smtp.PNG",
     "picture/kinship.PNG",
-    "picture/tcpd.PNG",
-    "pdf/Computer Networks And The Internet A Hands-On Approach by Gerry Howser (z-lib.org).pdf",
-    "rename"
+    "picture/tcpd.PNG"
   ]
 }
