@@ -11,9 +11,11 @@
             "id": "32d32c3af7ca2cf1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "picture/caper.PNG"
+                "file": "kiểu dữ liệu.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picture/caper.PNG",
+                "file": "kiểu dữ liệu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picture/caper.PNG",
+                "file": "kiểu dữ liệu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picture/caper.PNG"
+                "file": "kiểu dữ liệu.md"
               }
             }
           }
@@ -155,6 +157,11 @@
   },
   "active": "32d32c3af7ca2cf1",
   "lastOpenFiles": [
+    "NOTE DOWN.md",
+    "network.md",
+    "layered internet protocol stack.md",
+    "kiểu dữ liệu.md",
+    "picture/caper.PNG",
     "pdf/~$Chapter 7.2 - Address Resolution.pptx",
     "pdf/~$Chapter 7.1 - Ethernet Switching.pptx",
     "pdf/~$Chapter 5 - IPv6 Addressing.pptx",
@@ -167,7 +174,6 @@
     "lab1-Introduction/network edge.md",
     "pdf/Chapter 9 - Transport Layer.pptx",
     "pdf/Chapter 8.2 - ICMP.pptx",
-    "pdf/Chapter 8.1 - Network Layer.pptx",
     "Function and working principles of ARP, RARP.md",
     "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
     "Compare characteristics between OSI, TCP/IP model.md",
@@ -176,9 +182,6 @@
     "how to learn.md",
     "how to slove confice ip.md",
     "IPv4 packet structure.md",
-    "kiểu dữ liệu.md",
-    "layered internet protocol stack.md",
-    "network.md",
     "Protocol data units (PDUs) at the layers of the OSI model..md",
     "source.md",
     "Untitled 7.md",
@@ -190,7 +193,6 @@
     "Untitled 8.md",
     "organization of air travel.md",
     "Operation functions and principles of the layers in the network model OSI, TCP IP, IP.md",
-    "NOTE DOWN.md",
     "picture/picture.PNG",
     "picture/data_layer.PNG",
     "picture/COMPARISION.PNG",
@@ -199,7 +201,6 @@
     "picture/root.PNG",
     "picture/pop.PNG",
     "picture/smtp.PNG",
-    "picture/kinship.PNG",
-    "picture/tcpd.PNG"
+    "picture/kinship.PNG"
   ]
 }
