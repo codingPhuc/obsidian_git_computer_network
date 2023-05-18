@@ -9,5 +9,6 @@ the arp protocol is used to resolve ip address to MAC address , MAC address is t
 ## ARP  issues = ARP Broadcasting and ARP Spoofing 
 - entries in the ARP TABLE  are not permanent the entries can be reset by the arp catch time 
 - the catch time can be manually change by the administration 
-- the catch time are different depend on the os s
+- the catch time are different depend on the os system 
+
 
