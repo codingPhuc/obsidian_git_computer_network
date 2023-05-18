@@ -7,5 +7,7 @@ the arp protocol is used to resolve ip address to MAC address , MAC address is t
 - if you only got the ipv4 address the mac address can be located by sending an arp request 
 - if the table entry is empty then the ARP address will be send 
 ## ARP  issues = ARP Broadcasting and ARP Spoofing 
-this is the thing I want t
+- entries in the ARP TABLE  are not permanent the entries can be reset by the arp catch time 
+- the catch time can be manually change by the administration 
+- the catch time are different depend on the os s
 
