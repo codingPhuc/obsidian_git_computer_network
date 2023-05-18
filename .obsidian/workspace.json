@@ -11,9 +11,11 @@
             "id": "32d32c3af7ca2cf1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "picture/atomic.PNG"
+                "file": "Function and working principles of ARP, RARP.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picture/atomic.PNG",
+                "file": "Function and working principles of ARP, RARP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picture/atomic.PNG",
+                "file": "Function and working principles of ARP, RARP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picture/atomic.PNG"
+                "file": "Function and working principles of ARP, RARP.md"
               }
             }
           }
@@ -155,8 +157,17 @@
   },
   "active": "32d32c3af7ca2cf1",
   "lastOpenFiles": [
-    "how to learn.md",
     "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+    "SELF TESTING.md",
+    "how to learn.md",
+    "Compare the difference between Ipv4 vs Ipv6.md",
+    "Data encapsulation process..md",
+    "Application layer applications and corresponding protocols.md",
+    "Concepts of end systems,end devices,hosts, network edge, network core.md",
+    "exam.md",
+    "EMAIL.md",
+    "Function and working principles of ARP, RARP.md",
+    "picture/atomic.PNG",
     "kiểu dữ liệu.md",
     "NOTE DOWN.md",
     "network.md",
@@ -174,7 +185,6 @@
     "lab1-Introduction/network edge.md",
     "pdf/Chapter 9 - Transport Layer.pptx",
     "pdf/Chapter 8.2 - ICMP.pptx",
-    "Function and working principles of ARP, RARP.md",
     "Compare characteristics between OSI, TCP/IP model.md",
     "router.md",
     "Untitled 1.md",
@@ -185,12 +195,6 @@
     "Untitled 7.md",
     "Untitled 6.md",
     "Untitled 5.md",
-    "Untitled 4.md",
-    "Untitled 3.md",
-    "Untitled 2.md",
-    "Untitled 8.md",
-    "organization of air travel.md",
-    "Operation functions and principles of the layers in the network model OSI, TCP IP, IP.md",
     "picture/picture.PNG",
     "picture/data_layer.PNG",
     "picture/COMPARISION.PNG",
@@ -198,7 +202,6 @@
     "picture/dns server name.PNG",
     "picture/root.PNG",
     "picture/pop.PNG",
-    "picture/smtp.PNG",
-    "picture/kinship.PNG"
+    "picture/smtp.PNG"
   ]
 }
