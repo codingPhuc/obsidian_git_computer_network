@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Function and working principles of ARP, RARP.md",
+                "file": "lab1-Introduction/network edge.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Function and working principles of ARP, RARP.md",
+                "file": "lab1-Introduction/network edge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Function and working principles of ARP, RARP.md",
+                "file": "lab1-Introduction/network edge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Function and working principles of ARP, RARP.md"
+                "file": "lab1-Introduction/network edge.md"
               }
             }
           }
@@ -157,8 +157,8 @@
   },
   "active": "32d32c3af7ca2cf1",
   "lastOpenFiles": [
-    "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
     "Function and working principles of ARP, RARP.md",
+    "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
     "Compare characteristics between OSI, TCP/IP model.md",
     "router.md",
     "Untitled 1.md",
