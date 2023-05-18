@@ -35,7 +35,7 @@ Chapter: The Link Layer and LANs
 - Data Unit (PDU) at the DataLink layer?
 - [[Function and working principles of ARP, RARP]]
 - What devices operate at the DataLink layer?
-- Characteristics and functions of the physical MAC address; the length of the MAC
+- [[Characteristics and functions of the physical MAC address; the length of the MAC]]
 address; …
 - [[The access protocols CSMA/CD, Token Ring]], ...
 - Full-duplex and half-duplex transmission methods.
