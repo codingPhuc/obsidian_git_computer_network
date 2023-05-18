@@ -33,7 +33,7 @@ Chapter: The Network Layer: Data Plane and Control Plane
 - Abbreviated terms (NAT, ARP, RIP, DNS, IPS, ...)
 Chapter: The Link Layer and LANs
 - Data Unit (PDU) at the DataLink layer?
-- Function and working principles of ARP, RARP protocols?
+- [[Function and working principles of ARP, RARP]]
 - What devices operate at the DataLink layer?
 - Characteristics and functions of the physical MAC address; the length of the MAC
 address; …

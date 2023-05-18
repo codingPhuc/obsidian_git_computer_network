@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "how to learn.md",
+                "file": "Function and working principles of ARP, RARP.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "how to learn.md",
+                "file": "Function and working principles of ARP, RARP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "how to learn.md",
+                "file": "Function and working principles of ARP, RARP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "how to learn.md"
+                "file": "Function and working principles of ARP, RARP.md"
               }
             }
           }
@@ -157,6 +157,12 @@
   },
   "active": "32d32c3af7ca2cf1",
   "lastOpenFiles": [
+    "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
+    "Function and working principles of ARP, RARP.md",
+    "Compare characteristics between OSI, TCP/IP model.md",
+    "router.md",
+    "Untitled 1.md",
+    "how to learn.md",
     "how to slove confice ip.md",
     "IPv4 packet structure.md",
     "kiểu dữ liệu.md",
@@ -170,7 +176,6 @@
     "Untitled 4.md",
     "Untitled 3.md",
     "Untitled 2.md",
-    "Untitled 1.md",
     "Untitled 8.md",
     "organization of air travel.md",
     "Operation functions and principles of the layers in the network model OSI, TCP IP, IP.md",
@@ -178,11 +183,6 @@
     "Packet switching and circuit switching.md",
     "Port number on the machine running application services (FTP, DNS, SMTP, HTTP,.md",
     "protocol.md",
-    "README.md",
-    "Roles, functions, operating principles of the Router.md",
-    "router.md",
-    "SELF TESTING.md",
-    "importance for final exam/REVIEW CONTENTS OF TERM-FINAL EXAMINATION.md",
     "The access protocols CSMA",
     "picture/picture.PNG",
     "pdf/[1]. James W. Kurose, Keith W. Ross, [2021], Computer Networking_A top-down approach, 8th edition, Global Education, Pearson (1).pdf",
